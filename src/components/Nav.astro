@@ -1,0 +1,86 @@
+---
+const currentPage = Astro.url.pathname;
+import { getEntry } from 'astro:content';
+import ThemeToggle from './ThemeToggle.astro';
+
+const navItems = [
+  { href: '/blog', label: 'Blog' },
+  { href: '/about', label: 'About' },
+  { href: '/privacy', label: 'Privacy' },
+    { href: '/contact', label: 'Contact' },
+
+];
+
+const siteContent = (await getEntry('site', 'site'))?.data || {
+  siteName: 'New Blog',
+  siteUrl: '/',
+};
+
+const isActive = (href: string) => currentPage.startsWith(href);
+---
+
+<header class="site-header">
+  <div class="container">
+    <nav class="site-nav" aria-label="Primary navigation">
+      <a href={siteContent.siteUrl || '/'} class="site-logo">
+        New<span class="accent">Blog</span>
+      </a>
+
+      <div style="display: flex; align-items: center; gap: var(--space-md);">
+        <ul class="nav-menu">
+          {navItems.map((item) => (
+            <li><a href={item.href} class:list={['transition-colors', isActive(item.href) && 'active']}>{item.label}</a></li>
+          ))}
+        </ul>
+        <ThemeToggle />
+
+        <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+          </svg>
+        </button>
+      </div>
+    </nav>
+
+    <ul class="nav-menu mobile-menu">
+      {navItems.map((item) => (
+        <li><a href={item.href} class:list={[isActive(item.href) && 'active']}>{item.label}</a></li>
+      ))}
+    </ul>
+  </div>
+</header>
+
+<style>
+  .mobile-menu { display: none; }
+  .nav-menu a.active { color: var(--color-accent); }
+  @media (max-width: 768px) {
+    .site-nav > div > .nav-menu { display: none; }
+    .mobile-menu {
+      display: none;
+      flex-direction: column;
+      gap: var(--space-md);
+      padding-bottom: var(--space-lg);
+    }
+    .mobile-menu.open { display: flex; }
+  }
+</style>
+
+<script is:inline>
+  (function () {
+    var t = document.querySelector('.nav-toggle');
+    var m = document.querySelector('.mobile-menu');
+    if (t && m) {
+      t.addEventListener('click', function () {
+        var expanded = this.getAttribute('aria-expanded') === 'true';
+        this.setAttribute('aria-expanded', String(!expanded));
+        m.classList.toggle('open');
+      });
+      m.querySelectorAll('a').forEach(function (link) {
+        link.addEventListener('click', function () {
+          m.classList.remove('open');
+          t.setAttribute('aria-expanded', 'true');
+        });
+      });
+    }
+  })();
+</script>

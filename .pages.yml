@@ -1,0 +1,221 @@
+# Pages CMS Configuration
+# Docs: https://pagescms.org/docs/configuration/
+
+siteURL: https://yourdomain.com/
+repoURL: https://github.com/YOUR_USERNAME/new-blog/
+branch: main
+
+
+# Content Collections (must be a list)
+content:
+  # Blog Posts Collection
+  - name: blog
+    label: Blog Posts
+    type: collection
+    path: src/content/blog
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+
+      - name: description
+        label: Description
+        type: string
+        required: true
+
+      - name: date
+        label: Publish Date
+        type: date
+        required: true
+
+      - name: readTime
+        label: Read Time (minutes)
+        type: number
+        required: false
+
+      - name: body
+        label: Content
+        type: rich-text
+        required: true
+
+
+      - name: description
+        label: Description
+        type: string
+        required: true
+
+      - name: date
+        label: Date
+        type: date
+        required: true
+
+      - name: link
+        label: Project URL
+        type: url
+        required: false
+
+      - name: github
+        label: GitHub URL
+        type: url
+        required: false
+
+      - name: body
+        label: Details
+        type: rich-text
+        required: true
+
+  # Home Page - Single file
+  - name: home
+    label: Home Page
+    type: file
+    path: src/content/home/home.yml
+    format: yaml
+    fields:
+      - name: heroTitle
+        label: Hero Title
+        type: string
+        required: true
+
+      - name: heroSubtitle
+        label: Hero Subtitle
+        type: text
+        required: true
+
+      - name: currentlyBuilding
+        label: Currently Building
+        type: text
+        required: true
+        ui:
+          textarea: true
+
+
+      - name: gtmYears
+        label: The GTM Years
+        type: text
+        required: true
+        ui:
+          textarea: true
+
+      - name: thePivot
+        label: The Pivot
+        type: text
+        required: true
+        ui:
+          textarea: true
+
+      - name: whatImDoingNow
+        label: What I'm Doing Now
+        type: text
+        required: true
+        ui:
+          textarea: true
+
+      - name: philosophy
+        label: Philosophy
+        type: text
+        required: true
+        ui:
+          textarea: true
+
+      - name: contact
+        label: Contact Text
+        type: text
+        required: true
+        ui:
+          textarea: true
+
+      - name: email
+        label: Email
+        type: string
+        required: false
+
+      - name: twitter
+        label: Twitter URL
+        type: url
+        required: false
+
+  # Static Pages (About, Privacy)
+  - name: about
+    label: About Page
+    type: file
+    path: src/content/pages/about.md
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+
+      - name: description
+        label: Description (SEO)
+        type: string
+        required: false
+
+      - name: lastUpdated
+        label: Last Updated (e.g. "October 13, 2026")
+        type: string
+        required: false
+
+      - name: body
+        label: Content
+        type: rich-text
+        required: true
+
+  - name: privacy
+    label: Privacy Policy
+    type: file
+    path: src/content/pages/privacy.md
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+
+      - name: description
+        label: Description (SEO)
+        type: string
+        required: false
+
+      - name: lastUpdated
+        label: Last Updated (e.g. "October 13, 2026")
+        type: string
+        required: false
+
+      - name: body
+        label: Content
+        type: rich-text
+        required: true
+
+  # Site Settings - Footer and Nav
+  - name: site
+    label: Site Settings
+    type: file
+    path: src/content/site/site.yml
+    format: yaml
+    fields:
+      - name: copyrightText
+        label: Copyright Text
+        type: text
+        required: true
+        ui:
+          textarea: true
+
+      - name: footerLinks
+        label: Footer Links
+        type: text
+        required: true
+        ui:
+          textarea: true
+
+      - name: siteName
+        label: Site Name (Nav Logo)
+        type: string
+        required: true
+
+      - name: siteUrl
+        label: Site URL
+        type: url
+        required: false

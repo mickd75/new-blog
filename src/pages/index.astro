@@ -1,0 +1,82 @@
+---
+import PageLayout from '../layouts/Page.astro';
+import PostCard from '../components/PostCard.astro';
+import Pagination from '../components/Pagination.astro';
+import { getEntry } from 'astro:content';
+import { getAllPosts, paginate, POSTS_PER_PAGE } from '../utils/paginate';
+
+const allPosts = await getAllPosts();
+const { page, totalPages, slice: posts } = paginate(allPosts, 1, POSTS_PER_PAGE);
+
+const homeContent = (await getEntry('home', 'home'))?.data || {
+  heroTitle: 'New Blog',
+  heroSubtitle: 'Ideas for a stronger, wealthier, wiser life.',
+};
+
+const year = new Date().getFullYear();
+const firstYear = allPosts.length ? Math.min(...allPosts.map((p) => p.data.date.getFullYear())) : year;
+const span = Math.max(1, year - firstYear + 1);
+---
+
+<PageLayout
+  title="New Blog | Your tagline here"
+  description="Your site description here."
+>
+  <section class="hero">
+    <div class="hero-overlay"></div>
+    <div class="container">
+      <div class="hero-content">
+        <span class="hero-badge">Fitness · Finance · Mindset</span>
+        <h1 class="hero-title">{homeContent.heroTitle}</h1>
+        <p class="hero-tagline">{homeContent.heroSubtitle}</p>
+        <div class="hero-actions">
+          <a href="#latest" class="btn btn-primary">Latest Articles</a>
+          <a href="/about" class="btn btn-ghost">About the Blog</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="stats-bar">
+    <div class="container">
+      <div class="stats-grid">
+        <div class="stat">
+          <span class="stat-number">{allPosts.length}</span>
+          <span class="stat-label">Articles</span>
+        </div>
+        <div class="stat">
+          <span class="stat-number">{span}</span>
+          <span class="stat-label">Years of Writing</span>
+        </div>
+        <div class="stat">
+          <span class="stat-number">Free</span>
+          <span class="stat-label">Always & Forever</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="latest">
+    <div class="container">
+      <div class="section-head">
+        <h2 class="section-title">Latest Articles</h2>
+        <a href="/blog" class="section-link">View all →</a>
+      </div>
+      <div class="posts-grid">
+        {posts.map((post) => (
+          <PostCard
+            title={post.data.title}
+            description={post.data.description}
+            body={post.body}
+            date={post.data.date}
+            slug={post.slug}
+            category={post.data.category}
+            readTime={post.data.readTime}
+          />
+        ))}
+      </div>
+
+      <Pagination page={page} totalPages={totalPages} />
+    </div>
+  </section>
+</PageLayout>

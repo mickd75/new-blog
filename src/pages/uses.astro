@@ -1,0 +1,88 @@
+---
+import PageLayout from '../layouts/Page.astro';
+---
+
+<PageLayout
+  title="Uses — Hung Dev"
+  description="The tools, hardware, and software I use for AI development, writing, and running a local AI stack."
+>
+  <article class="prose max-w-none">
+    <h1 class="text-4xl md:text-5xl font-semibold mb-12">Uses</h1>
+    <p class="text-xl text-muted mb-12">
+      A list of tools and hardware I use daily. Updated periodically as my setup evolves.
+    </p>
+
+    <h2>Hardware</h2>
+    <ul>
+      <li><strong>MacBook Pro M3 Max</strong> — 36GB unified memory, enough for local inference and light fine-tuning</li>
+      <li><strong>External Display</strong> — 27" 4K monitor for split-screen coding and documentation</li>
+      <li><strong>Keyboard</strong> — Keychron K2 with mechanical switches for long typing sessions</li>
+    </ul>
+
+    <h2>Development</h2>
+    <ul>
+      <li><strong>Editor</strong> — VS Code with Vim keybindings</li>
+      <li><strong>Terminal</strong> — Warp AI (integrated command explanations are transformative)</li>
+      <li><strong>Browser</strong> — Arc for organization, Chrome for compatibility testing</li>
+      <li><strong>API Client</strong> — Thunder Client for VS Code (lighter than Postman)</li>
+    </ul>
+
+    <h2>AI & ML</h2>
+    <ul>
+      <li><strong>Primary model</strong> — Claude Sonnet for code generation, Opus for deep reasoning</li>
+      <li><strong>Local models</strong> — Llama 3.1 8B via Ollama for fast local inference</li>
+      <li><strong>AI framework</strong> — Pydantic AI for agent development and structured outputs</li>
+      <li><strong>Vector DB</strong> — SQLite with sqlite-vec for RAG (no external dependencies)</li>
+      <li><strong>Notebook</strong> — Jupyter Lab for experimentation and model testing</li>
+    </ul>
+
+    <h2>Knowledge management</h2>
+    <ul>
+      <li><strong>Primary system</strong> — Obsidian with a custom agentic stack for note linking and discovery</li>
+      <li><strong>Capture</strong> — Mobile Obsidian for quick inputs during the day</li>
+      <li><strong>Publishing</strong> — Quartz for static site generation from my vault (in progress)</li>
+    </ul>
+
+    <h2>Hosting & infrastructure</h2>
+    <ul>
+      <li><strong>Static hosting</strong> — Cloudflare Pages (zero config, global edge)</li>
+      <li><strong>DNS</strong> — Cloudflare DNS (proxied for DDoS protection)</li>
+      <li><strong>Analytics</strong> — Cloudflare Web Analytics (privacy-first, no cookies)</li>
+      <li><strong>CI/CD</strong> — GitHub triggers Cloudflare Pages builds automatically</li>
+    </ul>
+
+    <h2>Writing</h2>
+    <ul>
+      <li><strong>Blog posts</strong> — Pages CMS (git-backed, browser-based editor)</li>
+      <li><strong>Docs</strong> — Markdown in Obsidian, synced via Git</li>
+      <li><strong>Grammar</strong> — Grammarly for final polish</li>
+    </ul>
+
+    <p class="text-muted mt-12">
+      <em>Inspired by <a href="https://uses.tech" target="_blank" rel="noopener noreferrer">uses.tech</a>. If you have questions about my setup, <a href="mailto:hello@hungdev.com">ask away</a>.</em>
+    </p>
+  </article>
+</PageLayout>
+
+<style>
+  .prose h2 {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+  }
+
+  .prose p {
+    margin-bottom: 1.5rem;
+  }
+
+  .prose ul {
+    margin-bottom: 2rem;
+  }
+
+  .prose li {
+    margin-bottom: 0.75rem;
+  }
+
+  .prose strong {
+    font-weight: 600;
+  }
+</style>

@@ -1,0 +1,26 @@
+---
+import PageLayout from '../layouts/Page.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  return pages.map((entry) => ({ params: { page: entry.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<PageLayout title={`${entry.data.title} | New Blog`} description={entry.data.description}>
+  <main id="main" class="section">
+    <div class="container-narrow">
+      <h1 class="section-title" style="margin-bottom: var(--space-lg);">{entry.data.title}</h1>
+      {entry.data.lastUpdated && (
+        <p style="color: var(--color-text-muted); font-size: 0.875rem; margin-bottom: var(--space-2xl);">Last updated: {entry.data.lastUpdated}</p>
+      )}
+      <div class="prose">
+        <Content />
+      </div>
+    </div>
+  </main>
+</PageLayout>

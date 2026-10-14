@@ -1,0 +1,43 @@
+---
+import PageLayout from '../../layouts/Page.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection, render } from 'astro:content';
+import { getByTaxonomy, listTaxonomy, unslug } from '../../utils/taxonomy';
+
+export async function getStaticPaths() {
+  const cats = await listTaxonomy('category');
+  return cats.map((c) => ({ params: { slug: c.slug }, props: { name: c.name, count: c.count } }));
+}
+
+const { name, count } = Astro.props;
+const posts = await getByTaxonomy('category', name);
+
+// optional intro page: src/content/categories/<slug>.md (created by you later)
+const intro = await getCollection('categories').then((cs) => cs.find((c) => (c.slug ?? c.id.replace('.md','')) === name?.toLowerCase().replace(/[^a-z0-9]+/g, '-')));
+const introContent = intro ? await render(intro) : null;
+---
+
+<PageLayout title={`${name} | Crazy Monda`} description={`Articles about ${name.toLowerCase()}.`}>
+  <main id="main" class="section">
+    <div class="container">
+      <div class="section-head">
+        <h1 class="section-title">{name}</h1>
+        <span class="section-link">{count} articles</span>
+      </div>
+
+      {introContent && (
+        <div class="prose" style="margin-bottom: var(--space-2xl);">
+          <introContent.Content />
+        </div>
+      )}
+
+      <div class="posts-grid">
+        {posts.map((post) => (
+          <PostCard title={post.data.title} description={post.data.description} body={post.body}
+            date={post.data.date} slug={post.slug}
+            category={post.data.category} readTime={post.data.readTime} />
+        ))}
+      </div>
+    </div>
+  </main>
+</PageLayout>

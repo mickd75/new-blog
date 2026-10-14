@@ -1,0 +1,39 @@
+---
+import { postUrl } from '../utils/postUrl';
+import { excerpt } from '../utils/paginate';
+
+interface Props {
+  title: string;
+  description: string;
+  body?: string;
+  date: Date;
+  slug: string;
+  readTime?: number;
+  category?: string;
+}
+
+const { title, description, body = '', date, slug, readTime, category = '' } = Astro.props;
+const preview = description && description !== title ? description : body;
+const href = postUrl(slug, date);
+
+const formatDate = (d: Date) =>
+  new Date(d).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<article class="card">
+  <a href={href} class="card-link">
+    <div class="card-body">
+      {category ? (
+        <a href={`/category/${category.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`} class="card-category" style="position: static; display: inline-block; align-self: flex-start; margin-bottom: var(--space-md);">{category}</a>
+      ) : (
+        <span class="card-category" style="position: static; display: inline-block; align-self: flex-start; margin-bottom: var(--space-md); background: var(--color-text);">Article</span>
+      )}
+      <h2 class="card-title">{title}</h2>
+      <p class="card-excerpt">{excerpt(preview)}</p>
+      <div class="card-meta">
+        <time datetime={date.toISOString()}>{formatDate(date)}</time>
+        {readTime && <><span class="dot"></span><span>{readTime} min read</span></>}
+      </div>
+    </div>
+  </a>
+</article>

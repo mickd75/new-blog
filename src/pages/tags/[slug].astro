@@ -1,0 +1,31 @@
+---
+import PageLayout from '../../layouts/Page.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getByTaxonomy, listTaxonomy } from '../../utils/taxonomy';
+
+export async function getStaticPaths() {
+  const tags = await listTaxonomy('tags');
+  return tags.map((t) => ({ params: { slug: t.slug }, props: { name: t.name, count: t.count } }));
+}
+
+const { name, count } = Astro.props;
+const posts = await getByTaxonomy('tags', name);
+---
+
+<PageLayout title={`Tagged: ${name} | Crazy Monda`} description={`Articles tagged ${name}.`}>
+  <main id="main" class="section">
+    <div class="container">
+      <div class="section-head">
+        <h1 class="section-title">#{name}</h1>
+        <span class="section-link">{count} articles</span>
+      </div>
+      <div class="posts-grid">
+        {posts.map((post) => (
+          <PostCard title={post.data.title} description={post.data.description} body={post.body}
+            date={post.data.date} slug={post.slug}
+            category={post.data.category} readTime={post.data.readTime} />
+        ))}
+      </div>
+    </div>
+  </main>
+</PageLayout>

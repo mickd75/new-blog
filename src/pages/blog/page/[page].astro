@@ -1,0 +1,35 @@
+---
+import PageLayout from '../../../layouts/Page.astro';
+import PostCard from '../../../components/PostCard.astro';
+import Pagination from '../../../components/Pagination.astro';
+import { getAllPosts, paginate, POSTS_PER_PAGE } from '../../../utils/paginate';
+
+export async function getStaticPaths() {
+  const all = await getAllPosts();
+  const total = Math.ceil(all.length / POSTS_PER_PAGE);
+  return Array.from({ length: total - 1 }, (_, i) => ({ params: { page: String(i + 2) } }));
+}
+
+const { page } = Astro.params;
+const allPosts = await getAllPosts();
+const result = paginate(allPosts, Number(page), POSTS_PER_PAGE);
+---
+
+<PageLayout title={`Blog — Page ${result.page} | Crazy Monda`} description="All articles.">
+  <main id="main" class="section">
+    <div class="container">
+      <div class="section-head">
+        <h1 class="section-title">All Articles</h1>
+        <span class="section-link">{allPosts.length} articles</span>
+      </div>
+      <div class="posts-grid">
+        {result.slice.map((post) => (
+          <PostCard title={post.data.title} description={post.data.description} body={post.body}
+            date={post.data.date} slug={post.slug}
+            category={post.data.category} readTime={post.data.readTime} />
+        ))}
+      </div>
+      <Pagination page={result.page} totalPages={result.totalPages} basePath="/blog" />
+    </div>
+  </main>
+</PageLayout>

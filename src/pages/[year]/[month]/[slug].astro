@@ -1,0 +1,31 @@
+---
+import { getCollection } from 'astro:content';
+import PostLayout from '../../../layouts/Post.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => ({
+    // trailing ".html" keeps the original WordPress URL format (/YYYY/MM/slug.html)
+    params: {
+      year: String(post.data.date.getFullYear()),
+      month: String(post.data.date.getMonth() + 1).padStart(2, '0'),
+      slug: `${post.slug}.html`,
+    },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+---
+
+<PostLayout
+  title={post.data.title}
+  description={post.data.description}
+  date={post.data.date}
+  readTime={post.data.readTime}
+  category={post.data.category}
+  tags={post.data.tags}
+>
+  <Content />
+</PostLayout>

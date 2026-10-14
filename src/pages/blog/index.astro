@@ -1,0 +1,28 @@
+---
+import PageLayout from '../../layouts/Page.astro';
+import PostCard from '../../components/PostCard.astro';
+import Pagination from '../../components/Pagination.astro';
+import { getAllPosts, paginate, POSTS_PER_PAGE } from '../../utils/paginate';
+
+const allPosts = await getAllPosts();
+const { page, totalPages, slice: posts } = paginate(allPosts, 1, POSTS_PER_PAGE);
+---
+
+<PageLayout title="Blog | Crazy Monda" description="All articles.">
+  <main id="main" class="section">
+    <div class="container">
+      <div class="section-head">
+        <h1 class="section-title">All Articles</h1>
+        <span class="section-link">{allPosts.length} articles</span>
+      </div>
+      <div class="posts-grid">
+        {posts.map((post) => (
+          <PostCard title={post.data.title} description={post.data.description} body={post.body}
+            date={post.data.date} slug={post.slug}
+            category={post.data.category} readTime={post.data.readTime} />
+        ))}
+      </div>
+      <Pagination page={page} totalPages={totalPages} basePath="/blog" />
+    </div>
+  </main>
+</PageLayout>

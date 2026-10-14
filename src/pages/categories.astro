@@ -1,0 +1,24 @@
+---
+import PageLayout from '../layouts/Page.astro';
+import { listTaxonomy } from '../utils/taxonomy';
+
+const items = await listTaxonomy('category');
+---
+<PageLayout title="Categories | Crazy Monda">
+  <main id="main" class="section">
+    <div class="container-narrow">
+      <div class="section-head">
+        <h1 class="section-title">Categories</h1>
+        <span class="section-link">{items.length} total</span>
+      </div>
+      <ul style="display: flex; flex-direction: column; gap: var(--space-md); list-style: none; padding: 0; margin: 0;">
+        {items.map((i) => (
+          <li style="display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px solid var(--color-border-light); padding-bottom: var(--space-sm);">
+            <a href="/categories/${i.slug}" style="font-size: 1.0625rem;">{i.name}</a>
+            <span style="color: var(--color-text-light); font-size: 0.8125rem;">{i.count} articles</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </main>
+</PageLayout>

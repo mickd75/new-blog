@@ -1,0 +1,96 @@
+---
+import PageLayout from '../layouts/Page.astro';
+---
+
+<PageLayout
+  title="Now — Hung Dev"
+  description="What I'm working on right now. Updated monthly."
+>
+  <article class="prose max-w-none">
+    <h1 class="text-4xl md:text-5xl font-semibold mb-4">Now</h1>
+    <p class="text-muted mb-12">
+      Last updated: May 2026
+    </p>
+
+    <section class="mb-12">
+      <h2 class="text-xl font-semibold mb-4">Current focus</h2>
+      <p>
+        I'm deep in the <strong>local AI infrastructure</strong> phase. After months of relying on cloud APIs, I'm restructuring my stack to run as much as possible locally. The goal: understand what's actually practical and what requires external compute.
+      </p>
+      <p>
+        Main project: a GTM intelligence agent built with Pydantic AI. It analyzes competitive positioning, messaging consistency, and content strategy for B2B SaaS companies. The twist: I'm benchmarking local models against cloud APIs to see where the frontier actually is.
+      </p>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="text-xl font-semibold mb-4">What I'm building</h2>
+      <ul>
+        <li><strong>GTM Agent v2</strong> — Refactoring from scratch with better tool calling and error handling</li>
+        <li><strong>Obsidian agentic stack</strong> — Custom plugins for semantic search and insight synthesis</li>
+        <li><strong>This website</strong> — Documenting the journey as I go</li>
+      </ul>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="text-xl font-semibold mb-4">What I'm learning</h2>
+      <p>
+        Deepening my understanding of <strong>agent architectures</strong>. I've moved beyond simple chains and am exploring multi-agent systems with specialized roles. The hard part isn't the individual agents—it's the coordination protocol.
+      </p>
+      <p>
+        Also investing time in <strong>Linux system administration</strong>. Running local models at scale means understanding GPUs, drivers, and resource management. It's less glamorous than prompt engineering, but more foundational.
+      </p>
+    </section>
+
+    <section>
+      <h2 class="text-xl font-semibold mb-4">Life</h2>
+      <p>
+        Training for a 50km trail race. Gym 5-6x per week. Running has become the thinking time that driving used to be—something about the rhythm makes problem-solving flow differently.
+      </p>
+      <p>
+        Family time happens in the mornings before the day gets chaotic. Everything else can wait.
+      </p>
+    </section>
+
+    <p class="text-muted mt-12">
+      <em>The <a href="https://nownownow.com" target="_blank" rel="noopener noreferrer">/now</a> page movement was started by Derek Sivers. More about it <a href="https://sivers.org/clickbait" target="_blank" rel="noopener noreferrer">here</a>.</em>
+    </p>
+  </article>
+</PageLayout>
+
+<style>
+  .prose h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .prose p {
+    margin-bottom: 1rem;
+  }
+
+  .prose ul {
+    margin-bottom: 1.5rem;
+  }
+
+  .prose li {
+    margin-bottom: 0.5rem;
+  }
+
+  .prose strong {
+    font-weight: 600;
+  }
+
+  section {
+    padding: 2rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    section {
+      border-bottom-color: var(--color-dark-border);
+    }
+  }
+
+  section:last-child {
+    border-bottom: none;
+  }
+</style>
