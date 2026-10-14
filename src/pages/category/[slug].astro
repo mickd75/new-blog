@@ -17,7 +17,7 @@ const intro = await getCollection('categories').then((cs) => cs.find((c) => (c.s
 const introContent = intro ? await render(intro) : null;
 ---
 
-<PageLayout title={`${name} | Crazy Monda`} description={`Articles about ${name.toLowerCase()}.`}>
+<PageLayout title={`${name} | New Blog`} description={`Articles about ${name.toLowerCase()}.`}>
   <main id="main" class="section">
     <div class="container">
       <div class="section-head">
