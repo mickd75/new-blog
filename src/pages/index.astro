@@ -9,7 +9,7 @@ const allPosts = await getAllPosts();
 const { page, totalPages, slice: posts } = paginate(allPosts, 1, POSTS_PER_PAGE);
 
 const homeContent = (await getEntry('home', 'home'))?.data || {
-  heroTitle: 'New Blog',
+  heroTitle: 'Crazzy Monday',
   heroSubtitle: 'Ideas for a stronger, wealthier, wiser life.',
 };
 
@@ -19,7 +19,7 @@ const span = Math.max(1, year - firstYear + 1);
 ---
 
 <PageLayout
-  title="New Blog | Your tagline here"
+  title="Crazzy Monday | Fitness, money, and mindset"
   description="Your site description here."
 >
   <section class="hero">

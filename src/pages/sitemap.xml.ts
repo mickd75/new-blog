@@ -3,7 +3,7 @@ export const prerender = true;
 import { getCollection } from 'astro:content';
 import { postUrl } from '../utils/postUrl';
 
-const SITE = 'https://yourdomain.com';
+const SITE = 'https://crazzymonday.com';
 
 export const GET = async () => {
   const posts = await getCollection('blog');

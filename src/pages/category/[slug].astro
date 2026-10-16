@@ -2,7 +2,7 @@
 import PageLayout from '../../layouts/Page.astro';
 import PostCard from '../../components/PostCard.astro';
 import { getCollection, render } from 'astro:content';
-import { getByTaxonomy, listTaxonomy, unslug } from '../../utils/taxonomy';
+import { getByTaxonomy, listTaxonomy } from '../../utils/taxonomy';
 
 export async function getStaticPaths() {
   const cats = await listTaxonomy('category');
@@ -13,11 +13,11 @@ const { name, count } = Astro.props;
 const posts = await getByTaxonomy('category', name);
 
 // optional intro page: src/content/categories/<slug>.md (created by you later)
-const intro = await getCollection('categories').then((cs) => cs.find((c) => (c.slug ?? c.id.replace('.md','')) === name?.toLowerCase().replace(/[^a-z0-9]+/g, '-')));
+const intro = await getCollection('categories').then((cs) => cs.find((c) => c.slug === name?.toLowerCase().replace(/[^a-z0-9]+/g, '-')));
 const introContent = intro ? await render(intro) : null;
 ---
 
-<PageLayout title={`${name} | New Blog`} description={`Articles about ${name.toLowerCase()}.`}>
+<PageLayout title={`${name} | Crazzy Monday`} description={`Articles about ${name.toLowerCase()}.`}>
   <main id="main" class="section">
     <div class="container">
       <div class="section-head">

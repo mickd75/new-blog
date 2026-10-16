@@ -1,8 +1,8 @@
 # Pages CMS Configuration
 # Docs: https://pagescms.org/docs/configuration/
 
-siteURL: https://yourdomain.com/
-repoURL: https://github.com/YOUR_USERNAME/new-blog/
+siteURL: https://crazzymonday.com/
+repoURL: https://github.com/mickd75/new-blog/
 branch: main
 
 

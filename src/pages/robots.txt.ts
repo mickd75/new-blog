@@ -6,7 +6,7 @@ const ROBOTS_TXT = `
 User-agent: *
 Allow: /
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://crazzymonday.com/sitemap.xml
 `.trim();
 
 export const GET: APIRoute = () => {

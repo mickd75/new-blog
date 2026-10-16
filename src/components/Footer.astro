@@ -2,7 +2,7 @@
 import { getEntry } from 'astro:content';
 
 const siteContent = (await getEntry('site', 'site'))?.data || {
-  copyrightText: '© {year} New Blog. Built with Astro and Cloudflare Pages.',
+  copyrightText: '© {year} Crazzy Monday. Built with Astro and Cloudflare Pages.',
   footerLinks: '',
 };
 
@@ -14,7 +14,7 @@ const copyrightHtml = siteContent.copyrightText.replace('{year}', currentYear);
   <div class="container">
     <div class="footer-top" style="grid-template-columns: 2fr 1fr;">
       <div class="footer-brand">
-        <a href="/" class="footer-logo">New<span class="accent">Blog</span></a>
+        <a href="/" class="footer-logo">Crazzy<span class="accent">Monday</span></a>
         <p class="footer-about" set:html={siteContent.footerLinks} />
       </div>
       <div class="footer-col">

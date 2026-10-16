@@ -12,7 +12,7 @@ const navItems = [
 ];
 
 const siteContent = (await getEntry('site', 'site'))?.data || {
-  siteName: 'New Blog',
+  siteName: 'Crazzy Monday',
   siteUrl: '/',
 };
 
@@ -23,7 +23,7 @@ const isActive = (href: string) => currentPage.startsWith(href);
   <div class="container">
     <nav class="site-nav" aria-label="Primary navigation">
       <a href={siteContent.siteUrl || '/'} class="site-logo">
-        New<span class="accent">Blog</span>
+        Crazzy<span class="accent">Monday</span>
       </a>
 
       <div style="display: flex; align-items: center; gap: var(--space-md);">
