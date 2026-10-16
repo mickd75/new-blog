@@ -27,3 +27,5 @@ pnpm-debug.log*
 # misc
 *.log
 *.swp
+wordpress.xml
+public/wp-images/

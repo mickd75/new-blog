@@ -1,0 +1,12 @@
+---
+title: "5 Costly Financial Mistakes Men Make After 40—and How to Fix Them Tonight"
+description: "5 Costly Financial Mistakes Men Make After 40—and How to Fix Them Tonight"
+date: 2024-05-08
+readTime: 5
+originalUrl: "https://crazzymonday.com/2024/05/fitness-inspiration-luke.html"
+category: 'Fitness'
+tags: ['fitness']
+---
+Turning 40 feels like crossing the financial halfway line: you can see both the stadium of youth and the tunnel of retirement. Yet many men still play the first-half playbook, tripping over the same five costly errors. 1. Still Trying to Out-Market the Market Memorizing stock tickers at 25 was cute; at 45 it’s dangerous. Over-trading and performance-chasing erode returns with fees and taxes. Shift the ego-bound “beat the market” mindset to “match the market” with low-cost index funds. One diversified target-date fund inside your 401(k) beats a drawer full of unread brokerage statements. 2. Mortgage as a Status Symbol The biological clock for square footage ticks loudly after 40. Bigger house = bigger property-tax, insurance, maintenance and utility bills—often until age 75. Run two numbers before upgrading: projected retirement-date cash-flow and the true after-tax cost of carrying that loan. If either looks tight, stay put and attack the current mortgage instead. 3. Insurance Time-Bomb Term life bought when the kids were born may expire before the college bills do. Meanwhile, disability coverage rarely keeps pace with promotions. Schedule a 30-minute “insurance audit” every birthday; layer on 10- to 15-year term extensions or guaranteed-issue riders while you’re still healthy. 4. Dad’s 401(k) Loan Tapping retirement to pay for junior’s wedding feels noble, but it’s a double tax hit: repayments use after-tax dollars and future growth is forfeited. Treat the 401(k) like a medical vault—break glass only for actual emergencies. Instead, open a 529 the day you become a parent and fund it automatically. 5. The Lone-Wolf Syndrome Google is free, but it doesn’t know your net-worth statement. A fiduciary planner can spot cross-over points (RSUs, pension options, catch-up contributions) you’ll miss. One two-hour consult annually saves more than the fee in avoided mistakes and reduced anxiety. Fixing these slips doesn’t require a Wall Street salary—just a Saturday morning, an open spreadsheet, and the humility to admit the second half demands a new game plan.
+
+## FITNESS INSPIRATION - Ivan Hurtado
