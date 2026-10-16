@@ -53,5 +53,5 @@ FITNESS INSPIRATION OF THE DAY - RODRIGO CA
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/fitness-inspiration-rodrigo-cavalcanti.html)

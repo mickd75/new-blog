@@ -15,7 +15,7 @@ Let’s be honest. The "Digital Detox" trend of the 2020s failed. We didn't quit
 - <https://www.instagram.com/p/CqQYWQvMcuF/>
 Welcome to 2026. Your refrigerator talks to your car. Your social feed is curated by generative AI that knows your mood swings better than your spouse does. You haven't had an original thought upon waking up in perhaps five years.
 
-**The problem isn't willpower. It's architecture.** 
+**The problem isn't willpower. It's architecture.**
 We have outsourced our working memory to devices. The result? Anxiety isn't a feeling anymore; it's the background hum of a brain that never enters "idle mode."
 - <https://x.com/D_thebodybuilda/status/2073121885580116072>
 - <https://x.com/D_thebodybuilda/status/2065055637529084241>
@@ -39,12 +39,12 @@ Over the next four posts, we are going to rebuild your neurological firewalls. N
 - <https://x.com/D_thebodybuilda/status/2029227767204602082>
 ### The Zero-Phone Hour (How to Wake Up in 2026 Without Losing Your Mind)
 
-**The Scenario:** Your alarm chirps at 7:00 AM. By 7:00:15, you have cleared three notifications, seen a news headline that spikes your cortisol, and mindlessly opened a social app. 
+**The Scenario:** Your alarm chirps at 7:00 AM. By 7:00:15, you have cleared three notifications, seen a news headline that spikes your cortisol, and mindlessly opened a social app.
 **Result:** You are now in _Reactive Mode_. You spent the day reacting to the world, rather than acting upon it.
 
 Here is your **Morning Mental Reset** protocol for 2026:
 
-**The 60-Minute Moratorium.** 
+**The 60-Minute Moratorium.**
 For the first hour after waking, your phone lives in another room. Period. Not on the nightstand. Not on "Do Not Disturb." In the kitchen. Under a towel. I don’t care.
 - <https://x.com/Arisnavro/status/2059699351497113783>
 - <https://x.com/Arisnavro/status/2048121422229250530>
@@ -70,7 +70,7 @@ For the first hour after waking, your phone lives in another room. Period. Not o
 - <https://x.com/Arisnavro/status/2011643934158831765>
 - <https://x.com/Arisnavro/status/2011143820143100282>
 - <https://x.com/Arisnavro/status/1903530366687907954>
-**Why this works in 2026:** 
+**Why this works in 2026:**
 Your brain produces **alpha waves** immediately upon waking—a fertile state for problem-solving and emotional regulation. A notification blast produces **beta waves** (stress/focus). You are biologically slamming the gas and brake at the same time.
 
 **The Reclamation Ritual:**

@@ -9,7 +9,7 @@ tags: []
 ---
 ### How to Stop Justifying Unnecessary Purchases
 
-We've all been there - eyeing something we want but don't need and somehow rationalizing reasons why we should buy it anyway. It's easy to justify discretionary purchases in the moment, but these impulse buys can quickly add up, damaging our finances over time. Learning how to identify and avoid these mental traps is key to spending more mindfully. 
+We've all been there - eyeing something we want but don't need and somehow rationalizing reasons why we should buy it anyway. It's easy to justify discretionary purchases in the moment, but these impulse buys can quickly add up, damaging our finances over time. Learning how to identify and avoid these mental traps is key to spending more mindfully.
 
 1. The first step is recognizing when you're trying to justify an unnecessary purchase. Watch for thoughts like "It's not that expensive," "I deserve a treat," or "It's on sale so I'm saving money." These are signals that you're talking yourself into something. Take a pause before proceeding to the checkout.
 2. Next, ask yourself if this purchase aligns with your goals and priorities. Will this item move you closer to something you want to achieve, or is it just a fleeting desire? Visualize your future self looking back - will you be happy you spent the money this way? Keep your big picture goals at the front of your mind.
@@ -22,4 +22,4 @@ We've all been there - eyeing something we want but don't need and somehow ratio
  30. Focus on activities over things. Purchases often aim to fulfill emotional needs like celebrating an accomplishment or relieving stress. Find other ways to achieve those goals that don't require spending.
 31. Foster contentment with what you already have. Gratitude reduces the urge to overspend. Appreciate and fully enjoy the items you've purchased in the past. Savor what you have rather than constantly seeking the next thing.
 
-By staying mindful of your goals, evaluating needs vs. wants, and being wary of justification, you can get your discretionary spending under control. Break the habit of talking yourself into purchases you don't really need. Your future self will thank you. 
+By staying mindful of your goals, evaluating needs vs. wants, and being wary of justification, you can get your discretionary spending under control. Break the habit of talking yourself into purchases you don't really need. Your future self will thank you.

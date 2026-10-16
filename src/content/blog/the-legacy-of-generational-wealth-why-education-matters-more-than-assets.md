@@ -47,5 +47,5 @@ In conclusion, while assets are important, education is the cornerstone of gener
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-mix-39.html)

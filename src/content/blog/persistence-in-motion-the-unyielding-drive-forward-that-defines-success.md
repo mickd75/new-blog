@@ -87,5 +87,5 @@ Success is a relentless pursuit, a voyage that demands endurance, resilience, ad
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/fitness-inspiration-christophe-difalco.html)

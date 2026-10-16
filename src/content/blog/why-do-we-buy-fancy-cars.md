@@ -9,8 +9,6 @@ tags: []
 ---
 People buy fancy cars for a variety of reasons, including:
 
- 
-
 \- Status symbol: Owning a high-end luxury car is often seen as a sign of success and can signal to others the owner's wealth, success, and status.
 
 \- Comfort and luxury features: Fancy cars come with a range of luxury features and high-end materials, making them more comfortable and enjoyable to drive.

@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/12/whose-fault-is-it.html"
 category: ''
 tags: []
 ---
- 
 
 Is it OUR faults why we're experiencing failure in our life?
 

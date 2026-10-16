@@ -9,8 +9,6 @@ tags: ['fitness', 'lifestyle', 'Thoughts']
 ---
 [![](/wp-images/294845389_1277127166157786_6215006588408034085_n.jpg)](/wp-images/294845389_1277127166157786_6215006588408034085_n.jpg)
 
- 
-
 The particular part about personal development (be it fitness or any other goal) is that you’re no longer who you already are.
 
 It’s about removing and letting go of the bad habits and being open to new beliefs, and perspectives that are you.

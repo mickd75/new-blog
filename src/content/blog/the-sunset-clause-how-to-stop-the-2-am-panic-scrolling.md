@@ -9,7 +9,7 @@ tags: ['health', 'self-improvement', 'Inspiration']
 ---
 If the morning is a sprint, the night is a cave. You cannot bring a flashlight (your phone) into a dark cave and expect to sleep. You are biologically confusing your brainstem.
 
-**The Burnout Cycle:** 
+**The Burnout Cycle:**
 You get into bed. You scroll "just for 10 minutes." The blue light suppresses melatonin. The content (bad news, curated lives, work emails) triggers rumination. You put the phone down at 11:30 PM, but your brain is now running a diagnostic test on every post you saw. You sleep poorly. You wake up exhausted. Repeat.
 
 **The 2026 Protocol: Digital Sundown**

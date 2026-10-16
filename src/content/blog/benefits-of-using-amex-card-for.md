@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2023/02/benefits-of-using-amex-card-for.h
 category: ''
 tags: []
 ---
- 
 
 As a higher earner using AMEX credit cards, you may benefit from using an American Express (Amex) card in several ways:
 

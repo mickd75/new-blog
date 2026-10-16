@@ -9,8 +9,6 @@ tags: ['personal finance']
 ---
 Personal finance is all about finding the right balance between managing your money effectively and enjoying life. While it's important to prioritize savings and reduce unnecessary expenses, sacrificing small expenses that bring us joy isn't nearly as critical as making significant financial decisions like choosing where to live or what car to drive. Expenses like housing and transportation have the ability to change outcomes a lot more than skipping your cup of coffee. These expenses can impact your financial well-being in the long-term, and it's crucial to make informed decisions to achieve your financial goals.
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEiF52Hj3eYpkviJZV9CQ6jpgY9foAcqneAzg-OUUtmAt518mvpCXHzZts_sSJ0PqfO_8ac654P2Hqv6NAZhNs_48VR29G5YLAUx-F-ujxgY-ErFXTiUeC0E9gL1AHBAdaFnyrSZztv1qto8xWFc126pJDKR4ijPtaPmj0Ijm0r-smoLS6YUvGNCK2EZCg=s1080)
-
 However, this doesn't mean that we should forego all the small expenses that bring us joy. Going through life without any joy or pleasure is a waste, and it's essential to find a balance between discipline and enjoyment. Here are some tips to find that balance:
 
 * Prioritize your expenses: Identify the most critical expenses and prioritize them. Housing, transportation, and healthcare are essential expenses that can significantly impact your financial outcomes.

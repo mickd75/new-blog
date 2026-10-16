@@ -11,5 +11,5 @@ Assess your current financial situation: The first step in starting personal fin
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-inspiration-hanno-swanepole.html)

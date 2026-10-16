@@ -13,7 +13,7 @@ Creating and sticking to a budget is key for managing your money wisely. Here ar
 
 ### Track Your Expenses
 
-The first step is understanding where your money is going. Track every expense for 1-2 months, categorizing each purchase. This gives you visibility into spending patterns and helps identify areas to cut back. 
+The first step is understanding where your money is going. Track every expense for 1-2 months, categorizing each purchase. This gives you visibility into spending patterns and helps identify areas to cut back.
 
 ### Set SMART Goals
 
@@ -25,7 +25,7 @@ Budgeting only works if done consistently. Schedule time every week to review ex
 
 ### Build in Flexibility
 
-Allow for discretionary spending in your budget without going overboard. Being too rigid can cause you to get frustrated and give up. Build in a buffer for flexible spending. 
+Allow for discretionary spending in your budget without going overboard. Being too rigid can cause you to get frustrated and give up. Build in a buffer for flexible spending.
 
 ### Pay Yourself First
 
@@ -37,7 +37,7 @@ Cut back on major fixed expenses where possible, like housing, transportation, a
 
 ### Live Below Your Means
 
-Avoid the trap of lifestyle inflation. Just because your income rises doesn’t mean you should spend more. Stick to needs vs wants and live below your means to save more money. 
+Avoid the trap of lifestyle inflation. Just because your income rises doesn’t mean you should spend more. Stick to needs vs wants and live below your means to save more money.
 
 ### Use the 50/30/20 Rule
 

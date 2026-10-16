@@ -9,8 +9,6 @@ tags: []
 ---
 [![](/wp-images/2018-07-11_1821299352411162757.jpg)](/wp-images/2018-07-11_1821299352411162757.jpg)
 
- 
-
 We all know that [motivation comes and goes](https://www.nyu.edu/about/news-publications/news/2013/january/stern-study-examines-why-motivation-comes-and-goes.html). It’s not always gonna be there.
 
 The days when motivation isn’t there are the days when big results are made. Being able to put in the work when you don’t feel like it separates the winners from the losers. 

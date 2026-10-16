@@ -7,7 +7,7 @@ originalUrl: "https://crazzymonday.com/2022/10/bodybuilder-miroslav-schmied.html
 category: 'Fitness'
 tags: ['fitness']
 ---
-“If someone really wants you, they’ll apply pressure.” “Courage is grace under pressure.” – Ernest Hemingway “Gentle pressure applied relentlessly.” – Thomas Plummer “Don’t stress the could haves, if it should have, it would have.” “Put pressure on everything and whatever ain’t solid gon fold.” “The only way to handle pressure is to apply it.” – Darrelle Revis 
+“If someone really wants you, they’ll apply pressure.” “Courage is grace under pressure.” – Ernest Hemingway “Gentle pressure applied relentlessly.” – Thomas Plummer “Don’t stress the could haves, if it should have, it would have.” “Put pressure on everything and whatever ain’t solid gon fold.” “The only way to handle pressure is to apply it.” – Darrelle Revis
 
 [![](/wp-images/364036573_18010087648832214_4678899373173355808_n.jpg)](/wp-images/364036573_18010087648832214_4678899373173355808_n.jpg)
 
@@ -16,8 +16,6 @@ tags: ['fitness']
 [![](/wp-images/365467791_669196621737766_746517739250324193_n.jpg)](/wp-images/365467791_669196621737766_746517739250324193_n.jpg)
 
 [![](/wp-images/365802234_18010500322832214_577863391879716888_n.jpg)](/wp-images/365802234_18010500322832214_577863391879716888_n.jpg)
-
- 
 
 [![](/wp-images/366619206_18010895164832214_820266065775160854_n.jpg)](/wp-images/366619206_18010895164832214_820266065775160854_n.jpg)
 
@@ -47,8 +45,6 @@ tags: ['fitness']
 
 [![](/wp-images/379905312_18015083494832214_3974022082518918809_n.jpg)](/wp-images/379905312_18015083494832214_3974022082518918809_n.jpg)
 
- 
-
 [![](/wp-images/457dbeuiweJHio149.jpg)](/wp-images/457dbeuiweJHio149.jpg)
 
 [![](/wp-images/457dbeuiweJHio148.jpg)](/wp-images/457dbeuiweJHio148.jpg)
@@ -71,8 +67,6 @@ tags: ['fitness']
 
 [![](/wp-images/457dbeuiweJHio136.jpg)](/wp-images/457dbeuiweJHio136.jpg)
 
- 
-
 [![](/wp-images/457dbeuiweJHio135.jpg)](/wp-images/457dbeuiweJHio135.jpg)
 
 [![](/wp-images/457dbeuiweJHio134.jpg)](/wp-images/457dbeuiweJHio134.jpg)
@@ -84,8 +78,6 @@ tags: ['fitness']
 [![](/wp-images/457dbeuiweJHio130.jpg)](/wp-images/457dbeuiweJHio130.jpg)
 
 [![](/wp-images/457dbeuiweJHio129.jpg)](/wp-images/457dbeuiweJHio129.jpg)
-
- 
 
 [![](/wp-images/457dbeuiweJHio128.jpg)](/wp-images/457dbeuiweJHio128.jpg)
 
@@ -132,8 +124,6 @@ tags: ['fitness']
 [![](/wp-images/457dbeuiweJHio258.jpg)](/wp-images/457dbeuiweJHio258.jpg)
 
 [![](/wp-images/457dbeuiweJHio250.jpg)](/wp-images/457dbeuiweJHio250.jpg)
-
- 
 
 [![](/wp-images/457dbeuiweJHio241.jpg)](/wp-images/457dbeuiweJHio241.jpg)
 
@@ -217,8 +207,6 @@ tags: ['fitness']
 
 [![](/wp-images/457dbeuiweJHio175.jpg)](/wp-images/457dbeuiweJHio175.jpg)
 
- 
-
 [![](/wp-images/457dbeuiweJHio174.jpg)](/wp-images/457dbeuiweJHio174.jpg)
 
 [![](/wp-images/457dbeuiweJHio173.jpg)](/wp-images/457dbeuiweJHio173.jpg)
@@ -231,8 +219,6 @@ tags: ['fitness']
 
 [![](/wp-images/457dbeuiweJHio169.jpg)](/wp-images/457dbeuiweJHio169.jpg)
 
- 
-
 [![](/wp-images/457dbeuiweJHio168.jpg)](/wp-images/457dbeuiweJHio168.jpg)
 
 [![](/wp-images/457dbeuiweJHio167.jpg)](/wp-images/457dbeuiweJHio167.jpg)
@@ -244,8 +230,6 @@ tags: ['fitness']
 [![](/wp-images/457dbeuiweJHio158.jpg)](/wp-images/457dbeuiweJHio158.jpg)
 
 [![](/wp-images/457dbeuiweJHio157.jpg)](/wp-images/457dbeuiweJHio157.jpg)
-
- 
 
 [![](/wp-images/457dbeuiweJHio156.jpg)](/wp-images/457dbeuiweJHio156.jpg)
 

@@ -9,8 +9,6 @@ tags: []
 ---
 Here are some thought-provoking facts about personal finance that people rarely come across:
 
- 
-
 Most people die with debt: [A study found that the average American dies with nearly $62,000 in debt](https://www.cbsnews.com/news/americans-are-dying-with-an-average-of-62k-of-debt/), including mortgages, credit card debt, and medical bills.
 
 People who budget are more likely to be happier: According to a survey, [people who stick to a budget are happier](https://www.cnbc.com/2019/10/10/study-millennials-who-buy-less-and-save-more-are-happier.html) and have less financial stress than those who don’t budget.

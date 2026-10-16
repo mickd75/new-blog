@@ -13,7 +13,7 @@ Living beyond your means by spending more than you earn is a tough trap to escap
 
 ### Track Your Expenses
 
-The first step is awareness - you can't fix what you don't measure. Track every dollar you spend for 1-2 months using an app or spreadsheet. Categorize expenses to see where the money is going. This helps identify areas to cut back. 
+The first step is awareness - you can't fix what you don't measure. Track every dollar you spend for 1-2 months using an app or spreadsheet. Categorize expenses to see where the money is going. This helps identify areas to cut back.
 
 ### Make a Budget
 
@@ -29,7 +29,7 @@ Remove online payment methods and credit cards from apps and websites to curb im
 
 ### Wait 24 Hours Before Large Purchases
 
-When you want to buy something expensive, force yourself to wait 24 hours before purchasing. This pause helps the initial excitement fade so you can evaluate whether you really need it and can afford it. 
+When you want to buy something expensive, force yourself to wait 24 hours before purchasing. This pause helps the initial excitement fade so you can evaluate whether you really need it and can afford it.
 
 ### Start Saying No
 
@@ -41,8 +41,8 @@ Before each purchase, ask yourself if it's a need or a want. Stick to necessitie
 
 ### Give Yourself an Allowance
 
-Implement an allowance system where you transfer a set discretionary amount to your checking account each week or month. Once it runs out, no more fun spending until the next allowance. 
+Implement an allowance system where you transfer a set discretionary amount to your checking account each week or month. Once it runs out, no more fun spending until the next allowance.
 
 ### Increase Income
 
-Finally, boost your income with a side gig, promotion, or new job. Greater earning power provides more financial breathing room. With vigilance and discipline, you can break the overspending habit and live happily within your means. The payoff of financial freedom is worth it. 
+Finally, boost your income with a side gig, promotion, or new job. Greater earning power provides more financial breathing room. With vigilance and discipline, you can break the overspending habit and live happily within your means. The payoff of financial freedom is worth it.

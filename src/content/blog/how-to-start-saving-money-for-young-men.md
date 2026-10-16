@@ -9,8 +9,6 @@ tags: []
 ---
 There are several steps you, as a young man, can take to start saving money:
 
- 
-
 \- Set a savings goal: Decide how much you want to save and set a specific, measurable, achievable, relevant, and time-bound (SMART) goal.
 
 \- Create a budget: Track your income and expenses to understand where your money is going. Identify areas where you can cut back on spending and redirect that money toward your savings goal.

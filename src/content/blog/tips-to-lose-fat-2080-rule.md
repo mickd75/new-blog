@@ -9,8 +9,6 @@ tags: []
 ---
 [![](/wp-images/firefox_screenshot_2021-04-23t16-50-02.358z.png)](/wp-images/firefox_screenshot_2021-04-23t16-50-02.358z.png)
 
- 
-
 Honestly people over complicate a fitness when trying to accomplish a transformation.
 
 Fitness is all about habits to transform your body to get fit, more healthy and get the body composition changes you want.

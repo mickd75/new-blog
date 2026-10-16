@@ -11,11 +11,11 @@ Retiring comfortably requires generating enough income to cover your expenses fo
 
 ### Maximize [Social Security Benefits](https://www.investopedia.com/terms/s/social-security-benefits.asp)
 
-Social Security will likely be a significant source of [income](https://crazzymonday.com/2023/07/setting-up-passive-income-streams-practical-tips-and-strategies.html) in retirement. You can claim as early as 62, but waiting until your full retirement age (66 to 67) or 70 will result in higher monthly benefits. Run the numbers to determine the optimal claiming strategy for you. 
+Social Security will likely be a significant source of [income](https://crazzymonday.com/2023/07/setting-up-passive-income-streams-practical-tips-and-strategies.html) in retirement. You can claim as early as 62, but waiting until your full retirement age (66 to 67) or 70 will result in higher monthly benefits. Run the numbers to determine the optimal claiming strategy for you.
 
 ### Contribute to a [401(k)](https://crazzymonday.com/2023/07/common-mistakes-to-avoid-when-managing-your-401k-investments.html) or IRA
 
-Take full advantage of tax-advantaged retirement accounts like 401(k)s and IRAs. The larger the balances in these accounts, the more income they can generate during retirement. Contribute as much as you can afford - aim for at least 15% of your income. 
+Take full advantage of tax-advantaged retirement accounts like 401(k)s and IRAs. The larger the balances in these accounts, the more income they can generate during retirement. Contribute as much as you can afford - aim for at least 15% of your income.
 
 ### Invest for Income
 
@@ -35,7 +35,7 @@ The less debt you have in retirement, the less income you'll need to cover month
 
 ### Consider Downsizing
 
-Selling your larger home and moving to a smaller, less expensive residence can free up hundreds of thousands of dollars. Use some of the proceeds to boost your retirement funds while the rest can cover moving costs and furnish your new home. 
+Selling your larger home and moving to a smaller, less expensive residence can free up hundreds of thousands of dollars. Use some of the proceeds to boost your retirement funds while the rest can cover moving costs and furnish your new home.
 
 ### Rent Out a Spare Room
 
@@ -43,7 +43,7 @@ If you have the space, renting out a room in your home can generate $500-$1,000 
 
 ### Work Part-Time
 
-Many retirees find part-time or freelance work to be personally fulfilling and a way to generate extra income. Consider jobs that align with your interests and skills that don't require physical strain. Even a few days a week can make a difference. 
+Many retirees find part-time or freelance work to be personally fulfilling and a way to generate extra income. Consider jobs that align with your interests and skills that don't require physical strain. Even a few days a week can make a difference.
 
 ### Delay Claiming Social Security
 

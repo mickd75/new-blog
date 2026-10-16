@@ -9,7 +9,7 @@ tags: ['self-improvement']
 ---
 ### The 80/20 Rule and How It Applies to Building Wealth
 
-The 80/20 rule, also known as the Pareto Principle, is a powerful concept for building lasting wealth. It states that 80% of outcomes come from 20% of causes. This principle can guide your financial behaviors and investment strategies. 
+The 80/20 rule, also known as the Pareto Principle, is a powerful concept for building lasting wealth. It states that 80% of outcomes come from 20% of causes. This principle can guide your financial behaviors and investment strategies.
 
 ### Focus on High-Impact Areas
 
@@ -17,7 +17,7 @@ Don’t spread yourself thin trying to improve every little thing. Identify the 
 
 ### Target Key Spending Reductions
 
-You likely don’t need to eliminate all luxuries to save money. Find the 20% of spending cuts that can net 80% of savings. Big recurring costs like housing, transportation or dining out may be top targets. Avoid nickel and diming yourself. 
+You likely don’t need to eliminate all luxuries to save money. Find the 20% of spending cuts that can net 80% of savings. Big recurring costs like housing, transportation or dining out may be top targets. Avoid nickel and diming yourself.
 
 ### Pare Down Investment Options
 
@@ -29,7 +29,7 @@ Look at what already generates the most results in your financial plan. If a sid
 
 ### Automate Key Tasks
 
-Don’t waste time on repetitive financial chores. Automate the 20% of tasks that produce 80% of results. Set up automatic transfers to investment accounts. Use bill pay for recurring payments. Streamline routines. 
+Don’t waste time on repetitive financial chores. Automate the 20% of tasks that produce 80% of results. Set up automatic transfers to investment accounts. Use bill pay for recurring payments. Streamline routines.
 
 ### Continuously Learn In-Demand Skills
 
@@ -45,4 +45,3 @@ Avoid burnout from overwork. The 20% of restorative activities that re-energize 
 
  [](/wp-images/25006061_378990079173000_3303168556039929856_n.jpg)
 
- 

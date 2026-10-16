@@ -35,10 +35,10 @@ Let’s walk through the mechanics like you’d walk through a workout program.
 
 These are the financial squats and deadlifts. They’re heavy, but they build real wealth.
 
-| Type of Debt | What It Does | Why It’s “Good” | 
-| **Mortgage** | Buys a home that typically appreciates | Builds equity; tax-deductible interest | 
-| **Business loan** | Funds a venture that generates income | Asset pays back the loan + profit | 
-| **Student loan** (for a career-boosting degree) | Increases earning potential | Higher income over a lifetime | 
+| Type of Debt | What It Does | Why It’s “Good” |
+| **Mortgage** | Buys a home that typically appreciates | Builds equity; tax-deductible interest |
+| **Business loan** | Funds a venture that generates income | Asset pays back the loan + profit |
+| **Student loan** (for a career-boosting degree) | Increases earning potential | Higher income over a lifetime |
 | **Real estate investment loan** | Buys rental property | Monthly cash flow + appreciation |
 
 Think of good debt like progressive overload. You take on a calculated amount of stress (the loan), and if you manage it correctly, you come out stronger (wealthier).
@@ -47,10 +47,10 @@ Think of good debt like progressive overload. You take on a calculated amount of
 
 These are the financial isolation machines that look productive but waste your time and money.
 
-| Type of Debt | What It Does | Why It’s “Bad” | 
-| **Credit card debt** (for everyday spending) | Pays for things you consume | 20%+ interest; no asset created | 
-| **Auto loan** (for a luxury car) | Buys a depreciating asset | Car loses 20-40% value in first 5 years | 
-| **Payday loan** | Covers immediate cash needs | Triple-digit interest; debt spiral | 
+| Type of Debt | What It Does | Why It’s “Bad” |
+| **Credit card debt** (for everyday spending) | Pays for things you consume | 20%+ interest; no asset created |
+| **Auto loan** (for a luxury car) | Buys a depreciating asset | Car loses 20-40% value in first 5 years |
+| **Payday loan** | Covers immediate cash needs | Triple-digit interest; debt spiral |
 | **Personal loan for vacation** | Funds an experience | Memory fades; payment remains |
 
 Bad debt is like doing 100 reps of bicep curls with bad form. It feels productive in the moment, but it doesn’t build anything sustainable—and it can hurt your joints (finances) long-term.
@@ -71,19 +71,19 @@ At 40, you don’t have time to waste. Your money needs to work as hard as you d
 
 ## Common Misconceptions
 
-**1\. “All debt is bad.”** 
+**1\. “All debt is bad.”**
 False. A mortgage on a home that appreciates is a wealth-building tool. The key is whether the asset grows faster than the interest.
 
-**2\. “A low interest rate makes any debt good.”** 
+**2\. “A low interest rate makes any debt good.”**
 Not true. A low rate on a depreciating asset (like a car) is still bad debt. The asset loses value faster than you pay it off.
 
-**3\. “I’ll pay it off later.”** 
+**3\. “I’ll pay it off later.”**
 This is the financial equivalent of “I’ll start my diet Monday.” By 40, “later” is now. Interest compounds against you.
 
-**4\. “Debt is just a tool—it doesn’t matter what it’s for.”** 
+**4\. “Debt is just a tool—it doesn’t matter what it’s for.”**
 It absolutely does. Borrowing for a business that generates income is different from borrowing for a vacation. The purpose determines the outcome.
 
-**5\. “I deserve this.”** 
+**5\. “I deserve this.”**
 You do deserve nice things. But “deserving” doesn’t make high-interest debt smart. Treat yourself within your means.
 
 ## Practical Implications: Your Financial Workout Plan
@@ -112,19 +112,19 @@ Create an emergency fund (3-6 months of expenses). This prevents you from taking
 
 ## Frequently Asked Questions
 
-**Is a car loan always bad debt?** 
+**Is a car loan always bad debt?**
 Not always. A modest, reliable car that helps you get to work is a necessity. But a luxury car loan at 7% interest while the car loses 30% value in three years? That’s bad debt. Buy a used Toyota, not a new BMW.
 
-**Should I pay off my mortgage early?** 
+**Should I pay off my mortgage early?**
 It depends. If your mortgage is at 3% and you can invest at 8%, investing wins. But if you’re 40 and want to be debt-free by retirement, paying it down faster has emotional and financial benefits.
 
-**Is student loan debt good or bad?** 
+**Is student loan debt good or bad?**
 It depends on the degree. A loan for a medical or engineering degree that doubles your income? Good. A loan for a degree that doesn’t lead to a career? That’s a problem.
 
-**What about medical debt?** 
+**What about medical debt?**
 Medical debt is neither good nor bad—it’s often unavoidable. But it’s a financial burden that doesn’t build wealth. Avoid it if possible, and negotiate if you can.
 
-**Can I use debt to start a gym or fitness business?** 
+**Can I use debt to start a gym or fitness business?**
 Yes—if you have a solid business plan. A business loan for equipment, space, and marketing that generates revenue is good debt. Just don’t borrow for a “passion project” without a path to profit.
 
 ## Conclusion
@@ -137,13 +137,13 @@ Use debt like you use a barbell—with intention, with respect, and only when it
 
 * * *
 
-**Sources:** 
-\- [Schwab Moneywise: Good Debt vs. Bad Debt](https://www.schwabmoneywise.com/essentials/good-debt-vs-bad-debt) 
-\- [Fidelity: Good Debt vs. Bad Debt](https://www.fidelity.com/learning-center/smart-money/good-debt-vs-bad-debt) 
-\- [Experian: Good Debt vs. Bad Debt](https://www.experian.com/blogs/ask-experian/good-debt-vs-bad-debt-whats-the-difference/) 
-\- [Investopedia: Guide to Managing Debt](https://www.investopedia.com/articles/pf/12/good-debt-bad-debt.asp) 
-\- [Alliant Credit Union: Good Debt vs. Bad Debt](https://www.alliantcreditunion.org/money-mentor/good-debt-vs-bad-debt) 
-\- [Fortune: Good Debt vs. Bad Debt](https://fortune.com/article/good-debt-vs-bad-debt/) 
+**Sources:**
+\- [Schwab Moneywise: Good Debt vs. Bad Debt](https://www.schwabmoneywise.com/essentials/good-debt-vs-bad-debt)
+\- [Fidelity: Good Debt vs. Bad Debt](https://www.fidelity.com/learning-center/smart-money/good-debt-vs-bad-debt)
+\- [Experian: Good Debt vs. Bad Debt](https://www.experian.com/blogs/ask-experian/good-debt-vs-bad-debt-whats-the-difference/)
+\- [Investopedia: Guide to Managing Debt](https://www.investopedia.com/articles/pf/12/good-debt-bad-debt.asp)
+\- [Alliant Credit Union: Good Debt vs. Bad Debt](https://www.alliantcreditunion.org/money-mentor/good-debt-vs-bad-debt)
+\- [Fortune: Good Debt vs. Bad Debt](https://fortune.com/article/good-debt-vs-bad-debt/)
 \- [Fortune: U.S. National Debt Hits $39 Trillion](https://fortune.com/2026/05/20/us-national-debt-officially-hits-39-trillion-milestone/)
 
 * * *

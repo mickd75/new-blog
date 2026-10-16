@@ -13,8 +13,6 @@ Harnessing willpower and effectively managing your energy are crucial skills for
 
 Everyone has different times of day when they feel most energetic and focused. Identify your peak energy periods and schedule your most demanding tasks during these times. For many, this might be the morning hours after a good night's sleep.
 
- 
-
 ### 2\. Prioritize Your Tasks
 
 Start your day by prioritizing tasks based on their importance and urgency. Use tools like the Eisenhower Matrix to categorize tasks and focus on what's truly essential. Completing high-priority tasks first can give you a sense of accomplishment and motivate you to keep going.
@@ -37,8 +35,6 @@ Dehydration can lead to fatigue and decreased cognitive function. Make sure to d
 
 ### 7\. Get Regular Exercise
 
- 
-
 Regular physical activity boosts energy levels and improves mood by releasing endorphins. Aim for at least 30 minutes of moderate exercise most days of the week. Even short breaks of physical activity, like a brisk walk, can reinvigorate you during work hours.
 
 ### 8\. Ensure Quality Sleep
@@ -55,8 +51,6 @@ Identify and minimize distractions in your environment. Use techniques like the 
 
 ### 11\. Practice Self-Compassion
 
- 
-
 Be kind to yourself, especially when you encounter setbacks. Recognize that willpower can fluctuate and that it’s okay to take breaks and recharge. Self-compassion can reduce stress and help you bounce back more quickly when your willpower is tested.
 
 ### 12\. Build a Support System
@@ -69,5 +63,5 @@ By incorporating these strategies into your daily routine, you can strengthen yo
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/fitness-inspiration-corey-robideau.html)

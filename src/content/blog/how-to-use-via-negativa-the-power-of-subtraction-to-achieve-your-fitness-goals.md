@@ -54,12 +54,12 @@ If the answer is no, it's a candidate for removal.
 
 This is the "Remove One Thing" Challenge. Do not try to overhaul everything at once. Pick the single most obvious candidate from your audit.
 
-**Good candidates for removal:** 
-\- Liquid calories (soda, juice, fancy coffee drinks) 
-\- The "junk set" at the end of each exercise (the one with terrible form) 
-\- Pre-workout supplements that make you jittery 
-\- Phone checking during rest periods 
-\- Daily weigh-ins that mess with your head 
+**Good candidates for removal:**
+\- Liquid calories (soda, juice, fancy coffee drinks)
+\- The "junk set" at the end of each exercise (the one with terrible form)
+\- Pre-workout supplements that make you jittery
+\- Phone checking during rest periods
+\- Daily weigh-ins that mess with your head
 \- Unnecessary isolation exercises when your goal is strength
 
 **Example:** Sarah wanted to lose fat. She was doing 45 minutes of steady-state cardio every morning, followed by weight training. She was exhausted, hungry, and not losing weight. She removed the morning cardio (subtraction) and added two high-intensity interval sessions per week (addition was minimal). Result: She had more energy, better lifts, and started losing fat within three weeks.
@@ -68,10 +68,10 @@ This is the "Remove One Thing" Challenge. Do not try to overhaul everything at o
 
 Via Negativa isn't just about removing bad habits—it's about removing _barriers_ to good ones.
 
-**Remove the friction:** 
-\- Remove the decision: Sleep in your workout clothes 
-\- Remove the time cost: Pack your gym bag the night before 
-\- Remove temptation: Don't buy junk food (remove it from your environment) 
+**Remove the friction:**
+\- Remove the decision: Sleep in your workout clothes
+\- Remove the time cost: Pack your gym bag the night before
+\- Remove temptation: Don't buy junk food (remove it from your environment)
 \- Remove complexity: Stop following a 12-step meal prep routine. Eat whole foods simply.
 
 **James Clear**, author of _Atomic Habits_, calls this "making it invisible." If the bad option isn't there, you don't have to resist it. That's subtraction in action.
@@ -80,11 +80,11 @@ Via Negativa isn't just about removing bad habits—it's about removing _barrier
 
 Write down 3-5 things you will **stop doing** starting today. Post it on your fridge, your gym bag, or your phone wallpaper.
 
-**Examples:** 
-\- Stop checking my phone during rest periods (removes distraction, improves focus) 
-\- Stop doing cardio before lifting (removes fatigue, improves strength output) 
-\- Stop weighing myself daily (removes emotional volatility) 
-\- Stop eating after 9 PM (removes unnecessary calories and improves sleep) 
+**Examples:**
+\- Stop checking my phone during rest periods (removes distraction, improves focus)
+\- Stop doing cardio before lifting (removes fatigue, improves strength output)
+\- Stop weighing myself daily (removes emotional volatility)
+\- Stop eating after 9 PM (removes unnecessary calories and improves sleep)
 \- Stop doing exercises that hurt my joints (removes injury risk)
 
 **The key:** This list is non-negotiable. You don't "try" to stop. You just stop.
@@ -95,18 +95,18 @@ Write down 3-5 things you will **stop doing** starting today. Post it on your fr
 
 ### The Minimalist Strength Gain
 
-Mike was doing 20+ sets per muscle group per week, plus two hours of cardio. He was overtrained, injured, and stalled. He subtracted: 
-\- 10 sets per muscle group (went from 20 to 10) 
-\- All isolation exercises that didn't serve his primary lifts 
+Mike was doing 20+ sets per muscle group per week, plus two hours of cardio. He was overtrained, injured, and stalled. He subtracted:
+\- 10 sets per muscle group (went from 20 to 10)
+\- All isolation exercises that didn't serve his primary lifts
 \- One hour of weekly cardio
 
 **Result:** Within 6 weeks, his bench press went up 15 pounds, his shoulder pain disappeared, and he had more energy.
 
 ### The Subtraction Diet
 
-Jen was following a complicated meal plan with 6 meals a day, specific macros, and expensive ingredients. She was overwhelmed and consistently falling off. She subtracted: 
-\- All liquid calories (removed 300-500 calories daily) 
-\- All ultra-processed snacks (removed decision fatigue) 
+Jen was following a complicated meal plan with 6 meals a day, specific macros, and expensive ingredients. She was overwhelmed and consistently falling off. She subtracted:
+\- All liquid calories (removed 300-500 calories daily)
+\- All ultra-processed snacks (removed decision fatigue)
 \- The complex meal plan (replaced with simple whole foods)
 
 **Result:** She lost 8 pounds in 30 days without tracking a single macro. She reported feeling "free" for the first time in years.
@@ -139,19 +139,19 @@ Spending weeks analyzing what to remove is itself a form of addition (analysis p
 
 ## Frequently Asked Questions
 
-**How long does it take to see results with Via Negativa?** 
+**How long does it take to see results with Via Negativa?**
 Most people notice changes in energy, sleep, and body composition within 2-4 weeks. The first week is often uncomfortable as you break habits—push through it.
 
-**What if I'm a beginner? Should I subtract anything?** 
+**What if I'm a beginner? Should I subtract anything?**
 Yes, but carefully. Beginners should focus on removing _bad form_ and _junk volume_ (sets done poorly). Don't remove compound lifts or basic nutrition. Subtract the complexity, not the fundamentals.
 
-**Can I use this for nutrition?** 
+**Can I use this for nutrition?**
 Absolutely. The most powerful dietary change is often subtraction: remove sugary drinks, ultra-processed foods, alcohol, or late-night eating. This is far more effective than adding a single "superfood."
 
-**Isn't this just laziness?** 
+**Isn't this just laziness?**
 No. Via Negativa requires _more_ discipline than adding. It's easy to buy a new supplement or try a new workout. It's hard to stop doing something you _think_ is helping. The "bare minimum" is often the _maximum effective dose_.
 
-**How do I know I'm subtracting the right thing?** 
+**How do I know I'm subtracting the right thing?**
 Track your results for 30 days. If your primary metric (strength, weight, energy, sleep) improves, you subtracted the right thing. If not, try something else. The process is iterative.
 
 * * *
@@ -170,11 +170,11 @@ You might be surprised at how much progress you make by doing less.
 
 * * *
 
-**Sources:** 
-\- Taleb, Nassim Nicholas. _Antifragile: Things That Gain from Disorder_. Random House, 2012. 
-\- Clear, James. _Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones_. Avery, 2018. 
-\- Attia, Peter. _Outlive: The Science and Art of Longevity_. Harmony, 2023. 
-\- John, Dan. _Intervention: Course Corrections for the Athlete and Trainer_. On Target Publications, 2011. 
+**Sources:**
+\- Taleb, Nassim Nicholas. _Antifragile: Things That Gain from Disorder_. Random House, 2012.
+\- Clear, James. _Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones_. Avery, 2018.
+\- Attia, Peter. _Outlive: The Science and Art of Longevity_. Harmony, 2023.
+\- John, Dan. _Intervention: Course Corrections for the Athlete and Trainer_. On Target Publications, 2011.
 \- Schoenfeld, Brad, et al. "Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis." _Journal of Strength and Conditioning Research_, 2017.
 
 * * *

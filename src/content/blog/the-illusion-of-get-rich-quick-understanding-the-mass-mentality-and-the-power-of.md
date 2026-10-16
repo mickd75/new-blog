@@ -43,5 +43,5 @@ FITNESS INSPIRATION OF THE DAY - BRYAN JORDAN
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-bryan-jordan.html)

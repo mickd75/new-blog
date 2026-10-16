@@ -15,8 +15,6 @@ Here are 10 examples of budgeting strategies that can help reduce financial stre
 * Automate savings: Setting up automatic transfers from checking to savings can help increase savings and reduce the temptation to spend money on unnecessary items.
 * Reduce debt: Paying off high-interest debt, such as credit card balances, can help reduce stress and increase financial stability.
 
- 
-
 * Plan for unexpected expenses: Building an emergency fund to cover unexpected expenses, such as car repairs or medical bills, can reduce financial stress.
 * Shop for deals and compare prices: Taking the time to compare prices and look for sales can help reduce spending and increase savings.
 * Cut subscriptions and memberships: Reviewing monthly subscriptions and memberships can help identify areas where costs can be reduced.

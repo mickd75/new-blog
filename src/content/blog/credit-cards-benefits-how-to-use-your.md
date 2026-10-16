@@ -17,8 +17,6 @@ tags: []
 * **Keep an eye on expiration dates and other restrictions**: Make sure you are aware of any expiration dates or restrictions on your rewards, so you can use them before they expire or lose value.
 * **Use a shopping portal:** Some credit card issuers offer a shopping portal where you can earn extra rewards by shopping through the portal rather than directly on a retailer's website.
 
- 
-
 * **Take advantage of special promotions:** Some credit card issuers offer special promotions on gas rewards throughout the year, such as extra rewards for shopping during the holiday season.
 * **Stay organized:** Keep track of your rewards, expiration dates, and any terms and conditions to ensure you are maximizing your rewards and not missing out on any opportunities to earn them.
 * **Take advantage of any discounts or promotions at the gas station:** Some gas stations offer discounts or promotions when you use their loyalty program or pay with their credit card.

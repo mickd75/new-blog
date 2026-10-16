@@ -9,8 +9,6 @@ tags: ['personal finance']
 ---
 Having a low credit score can have a lasting negative impact on your finances if not addressed promptly. While a few missed payments or financial mistakes may only ding your score temporarily, a persistently low credit score can snowball into fewer opportunities and higher costs over the long run.
 
- 
-
 Here are some of the most significant long-term effects to be aware of:
 
 **Higher Interest Rates** - The lower your credit score, the higher interest rate lenders will charge on loans and credit cards. Even a slightly lower score can mean thousands more in interest paid over the lifetime of a mortgage or other long-term financing.
@@ -31,7 +29,7 @@ The cumulative effects make it critical to monitor your score regularly and take
 
 “The difference between successful people and very successful people is that very successful people say ‘no’ to almost everything.” – Warren Buffett
 
-You can cry, scream, and bang your head in frustration but keep pushing forward. It’s worth it. 
+You can cry, scream, and bang your head in frustration but keep pushing forward. It’s worth it.
 “I hated every minute of training, but I said, ‘Don’t quit. Suffer now and live the rest of your life as a champion.” – Muhammad Ali
 
 “To be a champion, I think you have to see the big picture. It’s not about winning and losing; it’s about every day hard work and about thriving on a challenge. It’s about embracing the pain that you’ll experience at the end of a race and not being afraid. I think people think too hard and get afraid of a certain challenge.”
@@ -40,5 +38,5 @@ You can cry, scream, and bang your head in frustration but keep pushing forward.
 
 ## CONTINUE READING >>
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-bremen-meneli.html)

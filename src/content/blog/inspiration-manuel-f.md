@@ -20,4 +20,3 @@ Many retirees find their expenses increase in retirement, even though they now l
 
 Retirement can be more expensive than expected. But with diligent tracking, sticking to a budget, downsizing, and saying no to impulsive purchases, you can combat lifestyle inflation and make your retirement savings last. Retiring debt-free and delaying Social Security also helps you avoid draining your nest egg too quickly. Focus on enjoying your golden years without breaking the bank.
 
- 

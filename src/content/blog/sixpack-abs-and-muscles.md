@@ -9,8 +9,6 @@ tags: []
 ---
 [![](/wp-images/2018-12-23_1940555661517330945.jpg)](/wp-images/2018-12-23_1940555661517330945.jpg)
 
- 
-
 If you promise yourself that “this year I’m gonna lose 10lbs”, and you don’t, you probably may feel a bit like a failure.
 
 Every time you make those promises and you don’t do it, your confidence is taking a hit. Do this for a few years consistently, and you’ll start to feel like you're incapable of anything. Confidence down, depression up

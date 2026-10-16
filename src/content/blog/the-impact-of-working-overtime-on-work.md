@@ -9,8 +9,6 @@ tags: []
 ---
 Working overtime can have a significant impact on work-life balance, as it can lead to longer working hours and less time for personal activities and relationships. 
 
- 
-
 The following are some ways working overtime can affect work-life balance:
 
 * Increased stress: Working overtime can increase stress levels, leading to burnout and decreased work satisfaction.

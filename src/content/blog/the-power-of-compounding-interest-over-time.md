@@ -15,7 +15,7 @@ Compound interest is the interest you earn on both your original money and on th
 
 ### The Magic of Compounding
 
-The magic of compounding comes from the exponential growth it provides. The longer your money is invested, the more time it has to grow. Each year, you earn interest on the money you initially invested and the interest you've already earned. 
+The magic of compounding comes from the exponential growth it provides. The longer your money is invested, the more time it has to grow. Each year, you earn interest on the money you initially invested and the interest you've already earned.
 
 **Example 1: Saving for Retirement**
 
@@ -23,7 +23,7 @@ Let's say you start investing $300 per month at age 25 in a retirement account t
 
 If you waited until age 35 to start investing the same amount, you'd contribute $108,000 by age 65. But your account balance would only be around $447,000. That 10-year delay would cost you over $650,000.
 
-**Example 2: Paying Off Credit Card Debt** 
+**Example 2: Paying Off Credit Card Debt**
 
 Now, let's look at compound interest from the perspective of debt. Suppose you have a credit card balance of $5,000 with an annual interest rate of 18%. If you only make the minimum payment, it could take over 30 years to pay off the balance, and you'd end up paying more than $10,000 in interest.
 
@@ -35,7 +35,7 @@ For example, if you have an investment earning 6% annually, it would take about 
 
 ## Maximizing Compound Interest
 
-To make the most of compound interest, start investing as early as possible, reinvest all earnings, and contribute regularly. Also, take advantage of tax-advantaged accounts like 401(k)s and IRAs, which allow your investments to grow tax-free or tax-deferred. 
+To make the most of compound interest, start investing as early as possible, reinvest all earnings, and contribute regularly. Also, take advantage of tax-advantaged accounts like 401(k)s and IRAs, which allow your investments to grow tax-free or tax-deferred.
 
 ### The Bottom Line
 

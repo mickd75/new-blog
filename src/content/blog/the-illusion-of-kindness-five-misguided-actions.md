@@ -45,5 +45,5 @@ True kindness fills that cup for both yourself and others, creating a ripple eff
 
 ## CONTINUE READING >>
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/fitness-mix-vol-25.html)

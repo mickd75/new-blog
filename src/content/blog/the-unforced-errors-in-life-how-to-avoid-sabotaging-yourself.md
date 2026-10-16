@@ -53,5 +53,5 @@ FITNESS INSPIRATION OF THE DAY - HENRIQUE
 
 ### CONTINUE READING >>
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-henrique.html)

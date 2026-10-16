@@ -11,8 +11,6 @@ Every January 1st, millions of people around the globe are filled with hope and 
 
 ### Be Specific and Measurable
 
- 
-
 **Vague Resolution:** "I want to get fit."
 
 **Refined Resolution:** "I will go to the gym three times a week and follow a structured workout plan."
@@ -24,8 +22,6 @@ The more specific your resolution, the better. It's not enough to say you want t
 **Broad Resolution:** "I will write a book."
 
 **Actionable Steps:** "I will write 300 words daily," "I will complete the first draft by June," and "I will revise one chapter per week."
-
- 
 
 Large goals can be overwhelming. Break them down into smaller, achievable tasks that will gradually lead you to your ultimate objective. This approach not only makes the task more manageable but also provides you with frequent opportunities to celebrate success, which boosts motivation.
 
@@ -41,8 +37,6 @@ Assigning a timeframe to your resolution creates a sense of urgency and helps pr
 
 **Simple Resolution:** "I will stop eating junk food."
 
- 
-
 **Motivated Resolution:** "I will stop eating junk food to improve my cholesterol levels and reduce health risks, ensuring I'm around to see my grandchildren grow up."
 
 Connect your resolution to a personal why. This deeper motivation will keep you going when the novelty wears off. Understanding the reasons behind your goals fosters resilience and commitment.
@@ -52,8 +46,6 @@ Connect your resolution to a personal why. This deeper motivation will keep you 
 **Optimistic Resolution:** "I will save more money."
 
 **Prepared Resolution:** "I will save more money by setting aside $100 every paycheck, and I’ll curb impulse spending by waiting 24 hours before any non-essential purchase."
-
- 
 
 It’s crucial to anticipate potential roadblocks and plan for how you'll deal with them. If you foresee that impulse buys might derail your savings plan, put strategies in place to mitigate that risk.
 
@@ -69,8 +61,6 @@ Documenting your journey not only serves as a reminder of your commitment but al
 
 **Private Resolution:** "I’m going to learn to play the guitar."
 
- 
-
 **Shared Goal:** "I will share my weekly guitar practice progress on social media and perform a song for my family by the end of the year."
 
 Sharing your goals with friends, family, or a social network can provide a supportive community to encourage you and hold you accountable.
@@ -80,8 +70,6 @@ Sharing your goals with friends, family, or a social network can provide a suppo
 **Rigid Resolution:** "I will only eat healthy food."
 
 **Flexible Goal:** "I will eat healthy meals during the week but allow myself a cheat meal on weekends."
-
- 
 
 Life is unpredictable. Be prepared to adapt your resolutions as circumstances change. Flexibility can help sustain your goals long-term.
 
@@ -97,8 +85,6 @@ You will have setbacks. Treat yourself kindly when things don't go as planned, a
 
 **Unacknowledged Goal:** "I want to run a marathon."
 
- 
-
 **Celebrated Achievement:** "After every milestone in my training, I will celebrate with a small reward like a movie night or new running gear."
 
 Recognize and celebrate your achievements, no matter how small. This will help build momentum and reinforce positive behavior.
@@ -111,5 +97,5 @@ Making your New Year's resolutions work is all about strategy. By setting specif
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-mix-28.html)

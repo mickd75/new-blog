@@ -65,7 +65,7 @@ Save for retirement using tax-advantaged accounts, such as Individual Retirement
 
 ### Eliminate high-interest debt:
 
-High-interest debt, like credit card debt, can be a significant barrier to achieving a high saving rate. Focus on paying down this debt as quickly as possible to free up more money for savings and investments. Once you have paid off high-interest debt, redirect those funds to your savings or investment accounts. ![](https://blogger.googleusercontent.com/img/a/AVvXsEhI23jCygiv_PR4bvaGGZqz5n9wRPHiRwnM9ZcJa4lbJ9Cox-iFCwEoAvlC7k3KWmjQf_bGjQJ15cNho70BQqAooZwdLqvbrf9dzeMcW5slBGY5fcjtaIJQKOoYPwVKoYm_WH1W5OMpVx3D2hTqcreCaUr3VQEg2RB_DoZYC6wTpOFVkty_MahFZg9bKQ=s1080)
+High-interest debt, like credit card debt, can be a significant barrier to achieving a high saving rate. Focus on paying down this debt as quickly as possible to free up more money for savings and investments. Once you have paid off high-interest debt, redirect those funds to your savings or investment accounts.
 
 ### Set realistic and achievable goals:
 

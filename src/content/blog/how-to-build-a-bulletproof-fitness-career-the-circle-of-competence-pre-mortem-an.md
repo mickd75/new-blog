@@ -66,23 +66,23 @@ In fitness careers, this is the ultimate antidote to burnout.
 
 **Three areas to subtract today:**
 
-**A. Your schedule** 
-List everything you did last week. Cross out anything that doesn't directly lead to client results or income. This includes: 
-\- Free consultations that never convert 
-\- Excessive social media scrolling 
-\- Over-complicated program design (your clients don't need 12 exercises) 
+**A. Your schedule**
+List everything you did last week. Cross out anything that doesn't directly lead to client results or income. This includes:
+\- Free consultations that never convert
+\- Excessive social media scrolling
+\- Over-complicated program design (your clients don't need 12 exercises)
 \- Unpaid admin work you could automate
 
-**B. Your worst clients** 
-This one hurts, but it's essential. Identify the 20% of clients who: 
-\- No-show or cancel last minute 
-\- Don't follow your programming 
-\- Complain constantly 
+**B. Your worst clients**
+This one hurts, but it's essential. Identify the 20% of clients who:
+\- No-show or cancel last minute
+\- Don't follow your programming
+\- Complain constantly
 \- Haggle on price
 
 Fire them. Refer them to another trainer. The energy you reclaim will transform your work with your _good_ clients.
 
-**C. Your skill clutter** 
+**C. Your skill clutter**
 You don't need to be good at everything. If you're a strength coach, stop trying to be a mobility guru. If you train athletes, stop offering nutrition plans outside your scope. Subtraction creates focus, and focus creates mastery.
 
 **Example:** A gym owner named Jenna had 60 clients but felt exhausted. She applied Via Negativa: she fired her 10 worst clients (the ones who arrived late, didn't pay on time, or ignored her programming). Her income dropped by 15%. But her energy, enthusiasm, and results with the remaining 50 clients skyrocketed. Within two months, referrals from those 50 filled the gap—and then some.
@@ -90,13 +90,12 @@ You don't need to be good at everything. If you're a strength coach, stop trying
 ## Common Mistakes to Avoid
 
 1. **Confusing your circle with your ego.** The biggest trap is thinking your circle is larger than it is. You might be great with general population clients but terrible with elite athletes. Mistaking one for the other destroys your reputation.
- 
+
 2. **Using Via Negativa as an excuse to avoid hard work.** Subtraction is powerful, but it's not a free pass to avoid learning. Remove _inefficiencies_, not challenges. Dropping a difficult certification because it's hard? That's lazy. Dropping a certification that doesn't align with your circle? That's smart.
- 
+
 3. **Running a Pre-Mortem once and forgetting it.** Do this before every major career decision. It takes 15 minutes and can save months of wasted effort. Make it a habit.
- 
+
 4. **Ignoring the market.** Your Circle of Competence must align with what people actually pay for. You can be the world's best expert in underwater basket weaving, but if nobody buys it, you're still broke. Ensure your niche has economic value.
- 
 
 ## Frequently Asked Questions
 
@@ -134,13 +133,13 @@ Your first step? Grab that notebook. Draw your circle. Start subtracting.
 
 * * *
 
-**Sources:** 
-\- Munger, Charles T. _Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger._ 
-\- Kahneman, Daniel. _Thinking, Fast and Slow._ 
-\- Klein, Gary. _Sources of Power: How People Make Decisions._ 
-\- Taleb, Nassim Nicholas. _Antifragile: Things That Gain from Disorder._ 
-\- Ericsson, Anders & Pool, Robert. _Peak: Secrets from the New Science of Expertise._ 
-\- Buffett, Warren. _Berkshire Hathaway Annual Shareholder Letters._ 
+**Sources:**
+\- Munger, Charles T. _Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger._
+\- Kahneman, Daniel. _Thinking, Fast and Slow._
+\- Klein, Gary. _Sources of Power: How People Make Decisions._
+\- Taleb, Nassim Nicholas. _Antifragile: Things That Gain from Disorder._
+\- Ericsson, Anders & Pool, Robert. _Peak: Secrets from the New Science of Expertise._
+\- Buffett, Warren. _Berkshire Hathaway Annual Shareholder Letters._
 \- Health & Fitness Association (formerly IHRSA). Industry Reports.
 
 * * *

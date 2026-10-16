@@ -67,5 +67,5 @@ FITNESS INSPIRATION OF THE DAY - MIX 43
 
 ## CONTINUE READING >>
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/fitness-mix-vol-43.html)

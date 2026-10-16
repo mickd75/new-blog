@@ -40,11 +40,11 @@ Here's how it works in practice:
 
 **The standard approach:** "I want to build muscle. I'll train five days a week, eat in a surplus, and track my macros."
 
-**The inversion approach:** "What would guarantee I _don't_ build muscle?" The answers might include: 
-\- Skipping sleep (less than 6 hours per night increases obesity risk by 55%) 
-\- Never taking rest days 
-\- Eating processed junk every meal 
-\- Ignoring pain signals 
+**The inversion approach:** "What would guarantee I _don't_ build muscle?" The answers might include:
+\- Skipping sleep (less than 6 hours per night increases obesity risk by 55%)
+\- Never taking rest days
+\- Eating processed junk every meal
+\- Ignoring pain signals
 \- Training the same body part every day
 
 **Your action:** Write down your fitness goal. Then write down the five things that would _guarantee_ you fail at that goal. Now—and this is the key—**avoid those things first.**
@@ -66,10 +66,10 @@ Most people stop at first-order effects. A second-order thinker asks: "I do this
 
 The first-order effect (weight loss) masked the second-order consequences (performance loss, sustainability issues). That's a blindspot.
 
-**Your action:** For your next fitness decision, write down the chain: 
-1\. "I will do [action]." 
-2\. "The immediate result is [first order]." 
-3\. "One week later, the result is [second order]." 
+**Your action:** For your next fitness decision, write down the chain:
+1\. "I will do [action]."
+2\. "The immediate result is [first order]."
+3\. "One week later, the result is [second order]."
 4\. "One month later, the result is [third order]."
 
 If the third-order effect is negative, reconsider the decision.
@@ -80,10 +80,10 @@ A pre-mortem is a simple but brutal exercise: **Imagine it's six months from now
 
 This forces you to identify blindspots you're currently ignoring.
 
-**Example scenarios:** 
-\- "I got injured because I never deloaded." 
-\- "I quit because I made my workouts too long and too hard." 
-\- "I gained fat because I overestimated my TDEE." 
+**Example scenarios:**
+\- "I got injured because I never deloaded."
+\- "I quit because I made my workouts too long and too hard."
+\- "I gained fat because I overestimated my TDEE."
 \- "I lost motivation because I had no social support."
 
 **Your action:** Write a one-paragraph "failure story" for your current goal. Be specific. Then look at the causes—those are your blindspots.
@@ -100,9 +100,9 @@ Make this a Sunday ritual. Fifteen minutes. One page.
 2. **The second-order question:** "If I skip one workout this week, what's the actual consequence?" (Probably nothing. But if you skip _all_ of them, that's a pattern.)
 3. **The "one less" rule:** "What is one thing I'm doing that's hurting my progress?" (Remove it before adding anything new.)
 
-**Example from a real lifter's audit:** 
-\- _Blindspot:_ I'm doing too many accessories and not enough compound lifts. 
-\- _Inversion:_ If I wanted to guarantee no progress, I'd keep doing what I'm doing. 
+**Example from a real lifter's audit:**
+\- _Blindspot:_ I'm doing too many accessories and not enough compound lifts.
+\- _Inversion:_ If I wanted to guarantee no progress, I'd keep doing what I'm doing.
 \- _Fix:_ Cut three isolation exercises. Add one set to squats.
 
 ### Step 5: Keep a Consequence Log
@@ -111,15 +111,15 @@ For one week, after every workout and every meal, write down how you feel **two 
 
 This trains your brain to connect actions with delayed consequences—the essence of second-order thinking.
 
-**What to log:** 
-\- What you ate/did 
-\- How you felt immediately 
-\- How you felt two hours later 
+**What to log:**
+\- What you ate/did
+\- How you felt immediately
+\- How you felt two hours later
 \- How you felt the next morning
 
-**What you'll discover:** 
-\- That "healthy" protein bar spikes your blood sugar and crashes your energy 
-\- That late-night workout keeps you awake until 2 AM 
+**What you'll discover:**
+\- That "healthy" protein bar spikes your blood sugar and crashes your energy
+\- That late-night workout keeps you awake until 2 AM
 \- That extra set of deadlifts makes your lower back sore for three days
 
 **Tip:** Don't judge. Just observe. The patterns will reveal themselves.
@@ -184,15 +184,15 @@ Start this week. Do your first blindspot audit. Run a pre-mortem on your current
 
 * * *
 
-**Sources:** 
-\- Munger, C. (2005). _Poor Charlie's Almanack_ 
-\- Marks, H. (2011). _The Most Important Thing: Uncommon Sense for the Thoughtful Investor_ 
-\- Parrish, S. (2019). _The Great Mental Models Volume 1_ (Farnam Street) 
-\- Clear, J. (2018). _Atomic Habits_ 
-\- Israetel, M. (2021). _Renaissance Periodization: Scientific Principles of Hypertrophy Training_ 
-\- _ACSM's Health & Fitness Journal_ (2019). "Adherence to Exercise Programs" 
-\- _National Institutes of Health_ (2010). "Underreporting of Energy Intake" 
-\- _Sports Medicine_ (2020). "Overtraining Syndrome: A Review" 
+**Sources:**
+\- Munger, C. (2005). _Poor Charlie's Almanack_
+\- Marks, H. (2011). _The Most Important Thing: Uncommon Sense for the Thoughtful Investor_
+\- Parrish, S. (2019). _The Great Mental Models Volume 1_ (Farnam Street)
+\- Clear, J. (2018). _Atomic Habits_
+\- Israetel, M. (2021). _Renaissance Periodization: Scientific Principles of Hypertrophy Training_
+\- _ACSM's Health & Fitness Journal_ (2019). "Adherence to Exercise Programs"
+\- _National Institutes of Health_ (2010). "Underreporting of Energy Intake"
+\- _Sports Medicine_ (2020). "Overtraining Syndrome: A Review"
 \- _Annals of Internal Medicine_ (2013). "Sleep Duration and Obesity Risk"
 
 * * *

@@ -21,9 +21,9 @@ By the end of this article, you’ll know exactly what it is, why it works bette
 
 In Homer’s _The Odyssey_, Ulysses (Odysseus) knew he was about to sail past the Sirens—creatures whose songs were so beautiful they made sailors crash their ships into the rocks. Ulysses _really_ wanted to hear the song, but he also wanted to survive.
 
-So he made a deal with his future self. He ordered his crew to: 
-1\. Plug their own ears with wax. 
-2\. Tie him to the mast of the ship. 
+So he made a deal with his future self. He ordered his crew to:
+1\. Plug their own ears with wax.
+2\. Tie him to the mast of the ship.
 3\. **Ignore any future commands** he gave to steer toward the Sirens.
 
 He knew that once he heard the song, his rational brain would check out. So he bound himself _before_ the temptation arrived. That’s the Ulysses Pact: **a decision you make now that removes your ability to choose the wrong option later.**
@@ -58,19 +58,19 @@ The Ulysses Pact solves the real problem: **consistency**. Here’s why that mat
 
 ## Common Misconceptions
 
-**1\. “This is just tricking myself.”** 
+**1\. “This is just tricking myself.”**
 Yes, and that’s exactly the point. You’re using your rational, motivated present self to protect your tired, excuse-making future self. It’s not a trick—it’s a strategy.
 
-**2\. “I need motivation, not a contract.”** 
+**2\. “I need motivation, not a contract.”**
 Wrong. The Ulysses Pact _eliminates_ the need for motivation at the moment of action. You don’t need to feel like working out. You just need to follow the system you already set up.
 
-**3\. “It’s too rigid; I’ll burn out.”** 
+**3\. “It’s too rigid; I’ll burn out.”**
 Only if you set it up poorly. The best pacts include **grace clauses** (e.g., 3 free skips per month) or **swap clauses** (e.g., if you can’t run, you must do 15 minutes of stretching). Flexibility prevents burnout. Laziness is not a valid excuse.
 
-**4\. “It only works if money is involved.”** 
+**4\. “It only works if money is involved.”**
 Not true. Social pressure (letting a friend down), environmental design (sleeping in gym clothes), and temporal constraints (a class that starts at a fixed time) are all powerful without costing a dime.
 
-**5\. “If I miss one day, the pact is broken.”** 
+**5\. “If I miss one day, the pact is broken.”**
 No. The pact is about _consistency_, not perfection. A missed day is a data point, not a failure. The pact continues.
 
 * * *
@@ -101,19 +101,19 @@ Sign up for a **group fitness class** with a friend who is relying on you. Tell 
 
 ## Frequently Asked Questions
 
-**Q: What if I genuinely can’t make it? (e.g., sick, injured)** 
+**Q: What if I genuinely can’t make it? (e.g., sick, injured)**
 A: Build in a “grace clause” (e.g., 3 free misses per month) or a “swap clause” (e.g., if you can’t run, you must do 20 minutes of stretching instead). This prevents the pact from breaking due to a real emergency.
 
-**Q: Does the pact have to involve money?** 
+**Q: Does the pact have to involve money?**
 A: No. Social, temporal, and environmental pacts are all effective without money. However, financial pacts are the most binding because the loss is immediate and tangible.
 
-**Q: What if my brain finds loopholes? (e.g., “I’ll just drive to the gym and sit in the parking lot”)** 
+**Q: What if my brain finds loopholes? (e.g., “I’ll just drive to the gym and sit in the parking lot”)**
 A: Make the pact specific. “I will walk through the door of the gym and complete one exercise.” The more precise the action, the harder it is to loophole.
 
-**Q: Can I use this for nutrition too?** 
+**Q: Can I use this for nutrition too?**
 A: Absolutely. Pre-order a healthy meal delivery service. Remove junk food from your house. Set a rule: “If I eat fast food, I donate $20 to a charity I hate.” The same principle applies.
 
-**Q: Isn’t this just for people with no willpower?** 
+**Q: Isn’t this just for people with no willpower?**
 A: No. Even elite athletes use commitment devices. Willpower is a finite resource. The smartest people don’t rely on it—they design systems that make willpower irrelevant.
 
 ## Conclusion
@@ -128,14 +128,14 @@ Your future self might curse you at 5:30 AM. But six months from now, when you�
 
 * * *
 
-**Sources:** 
-\- Homer, _The Odyssey_ 
-\- Nir Eyal, _Indistractable_ (2019) 
-\- James Clear, _Atomic Habits_ (2018) 
-\- Dan Ariely, _Predictably Irrational_ (2008) 
-\- Roy F. Baumeister & John Tierney, _Willpower: Rediscovering the Greatest Human Strength_ (2011) 
-\- Royer, Stehr, Sydnor (2016). “Commitment Contracts.” _Management Science_ 
-\- StickK.com 
+**Sources:**
+\- Homer, _The Odyssey_
+\- Nir Eyal, _Indistractable_ (2019)
+\- James Clear, _Atomic Habits_ (2018)
+\- Dan Ariely, _Predictably Irrational_ (2008)
+\- Roy F. Baumeister & John Tierney, _Willpower: Rediscovering the Greatest Human Strength_ (2011)
+\- Royer, Stehr, Sydnor (2016). “Commitment Contracts.” _Management Science_
+\- StickK.com
 \- Statista – Gym attendance data (2023)
 
 * * *

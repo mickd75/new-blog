@@ -45,9 +45,9 @@ Before you automate anything, you need to know how much you're going to capture.
 
 The research is clear: starting small is infinitely better than not starting at all. Behavioral economist Richard Thaler's "Save More Tomorrow" program showed that people who committed to small, automatic increases in their savings rate dramatically boosted their long-term wealth without feeling the pain of immediate spending cuts.
 
-**Here's your playbook:** 
-\- If you're brand new to this: Start at **1-5%** of your gross income. Yes, that low. The goal is to build the _habit_ of automation, not to max out your savings on day one. 
-\- If you have some savings already: Aim for **10-15%** . 
+**Here's your playbook:**
+\- If you're brand new to this: Start at **1-5%** of your gross income. Yes, that low. The goal is to build the _habit_ of automation, not to max out your savings on day one.
+\- If you have some savings already: Aim for **10-15%** .
 \- If you're feeling ambitious: Go for **20%** (the classic 50/30/20 rule).
 
 **The Pro Move:** Commit to increasing your savings rate by 1% every time you get a raise. You never miss money you never had.
@@ -66,8 +66,8 @@ The research is clear: starting small is infinitely better than not starting at 
 
 This is the gold standard of wealth capture. It's the financial equivalent of having your pre-workout already mixed and waiting for you—you don't have to think about it, you just do it.
 
-Contact your employer's HR or payroll department. Ask them to split your direct deposit so that: 
-\- **X% goes directly to your savings or investment account** (the account you never touch) 
+Contact your employer's HR or payroll department. Ask them to split your direct deposit so that:
+\- **X% goes directly to your savings or investment account** (the account you never touch)
 \- **The rest goes to your checking account** (for bills and spending)
 
 **Why this works:** You never see the money. It never touches your checking account. It's out of sight, completely out of mind. Your brain doesn't register it as "available to spend," so you don't miss it.
@@ -86,8 +86,8 @@ If your employer can't split direct deposit (some smaller companies can't), or i
 
 Set up a recurring transfer from your checking account to your savings or investment account. Schedule it for **the day after your paycheck hits**.
 
-**Example:** 
-\- Payday: Every other Friday 
+**Example:**
+\- Payday: Every other Friday
 \- Automated transfer: Every other Saturday, $200 moves from checking to savings
 
 **Why the day after?** Because the money hasn't had time to burn a hole in your pocket. If you wait until the end of the month, you'll find a thousand "reasons" why you can't transfer anything.
@@ -122,10 +122,10 @@ Set up recurring buys into a low-cost index fund in your brokerage account. Thin
 
 Automation doesn't have to be boring. In fact, it works _better_ when you give each dollar a job.
 
-Set up separate automated savings buckets for specific goals: 
-\- **Emergency Fund:** 3-6 months of expenses in a high-yield savings account 
-\- **Vacation Fund:** $100/month into a separate account 
-\- **New Car Fund:** $200/month 
+Set up separate automated savings buckets for specific goals:
+\- **Emergency Fund:** 3-6 months of expenses in a high-yield savings account
+\- **Vacation Fund:** $100/month into a separate account
+\- **New Car Fund:** $200/month
 \- **Home Down Payment Fund:** Whatever you can afford
 
 **Why this works:** It turns abstract saving into concrete progress. Instead of feeling like you're "losing" money, you're "funding" your future vacation or your new car. It's the same principle as training for a specific competition—you're more motivated when you have a clear goal.
@@ -138,9 +138,9 @@ Meet Sarah. She's 30 years old, earns $60,000 per year, and has zero savings. He
 * **401(k) contribution:** 6% (to get the full employer match of 4%)
 * **Recurring transfer:** $100/month into a Roth IRA invested in a target-date fund
 
-**Year 1 results:** 
-\- Emergency fund: $6,000 (3 months of expenses covered) 
-\- 401(k): $3,600 + $2,400 employer match = $6,000 
+**Year 1 results:**
+\- Emergency fund: $6,000 (3 months of expenses covered)
+\- 401(k): $3,600 + $2,400 employer match = $6,000
 \- Roth IRA: $1,200
 
 **Total wealth captured in one year: $13,200**
@@ -175,21 +175,21 @@ Some people use automation as an excuse to overspend. "I'm saving 10%, so I can 
 
 ## Frequently Asked Questions
 
-**How much should I automate if I have debt?** 
+**How much should I automate if I have debt?**
 Start with a small emergency fund ($500-$1,000) first. Then pause savings and automate extra payments toward high-interest debt (credit cards, payday loans). Once that's gone, redirect those payments to savings.
 
-**What if I need the money for an emergency?** 
+**What if I need the money for an emergency?**
 That's why your first automated goal should be an emergency fund in a high-yield savings account. It's accessible (unlike a 401(k)) and earns interest. Once you have 3-6 months of expenses saved, redirect the automation to investments.
 
-**Can I automate with a variable income?** 
+**Can I automate with a variable income?**
 Yes. Set a fixed dollar amount that you know you can hit every month, even in your lowest-income month. For example, if you earn between $3,000 and $5,000 per month, automate $500. You'll capture more in good months, but never miss the minimum.
 
-**Should I automate into a 401(k) or a Roth IRA first?** 
-1\. Get the full employer 401(k) match (free money) 
-2\. Then max out a Roth IRA (tax-free growth) 
+**Should I automate into a 401(k) or a Roth IRA first?**
+1\. Get the full employer 401(k) match (free money)
+2\. Then max out a Roth IRA (tax-free growth)
 3\. Then increase 401(k) contributions beyond the match
 
-**How do I increase my savings rate over time?** 
+**How do I increase my savings rate over time?**
 Every time you get a raise, increase your automation by 1-2%. You never miss money you never had. This is the "Save More Tomorrow" approach, and it's backed by decades of behavioral economics research.
 
 ## Conclusion
@@ -204,11 +204,11 @@ Your future self will thank you. And honestly? They'll probably be in better fin
 
 * * *
 
-**Sources:** 
-\- _The Automatic Millionaire_ by David Bach 
-\- _I Will Teach You to Be Rich_ by Ramit Sethi 
-\- _Nudge_ by Richard Thaler and Cass Sunstein 
-\- Madrian, B. C., & Shea, D. F. (2001). "The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior." _The Quarterly Journal of Economics_ 
+**Sources:**
+\- _The Automatic Millionaire_ by David Bach
+\- _I Will Teach You to Be Rich_ by Ramit Sethi
+\- _Nudge_ by Richard Thaler and Cass Sunstein
+\- Madrian, B. C., & Shea, D. F. (2001). "The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior." _The Quarterly Journal of Economics_
 \- Thaler, R. H., & Benartzi, S. (2004). "Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving." _Journal of Political Economy_
 
 * * *

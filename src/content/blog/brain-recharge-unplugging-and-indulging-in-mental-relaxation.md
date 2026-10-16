@@ -61,5 +61,5 @@ These aren't just leisure activities; they're necessities — vital for maintain
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-mitch-szewski.html)

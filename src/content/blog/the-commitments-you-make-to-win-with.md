@@ -25,5 +25,5 @@ You will have days where you feel like you are in a slump or aren’t perfect bu
 
 ### CONTINUE READING >>
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-arad.html)

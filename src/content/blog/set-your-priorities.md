@@ -9,8 +9,6 @@ tags: []
 ---
 [![](/wp-images/164638715_769965233643587_5531250065136211293_n.jpg)](/wp-images/164638715_769965233643587_5531250065136211293_n.jpg)
 
- 
-
 Many people think that if They had as much [time](https://www.crazzymonday.com/2022/08/the-fear-of-regression.html) as they need, they would be able to work out too. 
 
 We all get the same exact amount of time. It’s what we choose to do with it that makes all the difference in the world. ⁣

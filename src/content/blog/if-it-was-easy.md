@@ -9,8 +9,6 @@ tags: []
 ---
 [![](/wp-images/300680648_420541013260679_601700971140528521_n.jpg)](/wp-images/300680648_420541013260679_601700971140528521_n.jpg)
 
- 
-
 If it was easy everyone would do it. ⁣
 
 This goes for everything. ⁣

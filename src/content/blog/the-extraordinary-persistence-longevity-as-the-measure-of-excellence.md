@@ -57,5 +57,5 @@ An extraordinary person, then, is not someone who seeks to conquer mountains in 
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/fitness-mix-v3.html)

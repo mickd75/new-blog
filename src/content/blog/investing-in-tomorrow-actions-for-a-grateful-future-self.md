@@ -59,5 +59,5 @@ Envision receiving a thank-you note from your future self. What would you want i
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-carlton-loth.html)

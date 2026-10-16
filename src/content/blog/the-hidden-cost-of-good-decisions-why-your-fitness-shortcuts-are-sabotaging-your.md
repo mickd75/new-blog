@@ -107,56 +107,56 @@ The fitness industry profits from first-order thinking. They sell you the "befor
 
 ## Common Misconceptions
 
-**"If a little is good, more is better."** 
+**"If a little is good, more is better."**
 Wrong. Exercise follows a U-shaped curve. Too little has no benefit. Too much causes harm. The sweet spot is sustainable consistency, not maximum intensity.
 
-**"I can out-train a bad diet."** 
+**"I can out-train a bad diet."**
 You can't. A 30-minute run burns roughly 300 calories. A single donut contains 400. The downstream consequence of this mindset is overtraining without weight loss.
 
-**"Fasted cardio burns more fat."** 
+**"Fasted cardio burns more fat."**
 Acutely, yes. But the downstream consequence is often reduced total daily energy expenditure because you feel lethargic and move less for the rest of the day. Net effect? Minimal difference.
 
-**"I need to be perfect to see results."** 
+**"I need to be perfect to see results."**
 Perfectionism is the enemy of consistency. Dr. Layne Norton calls this the "all-or-nothing mindset"—one bad meal triggers a week-long binge because "you've already ruined it." The downstream consequence is a cycle of restriction and overeating.
 
-**"Recovery tools can replace sleep."** 
+**"Recovery tools can replace sleep."**
 No. Nothing replaces sleep. Using a sauna, cold plunge, and massage gun while sleeping 5 hours is like trying to fix a broken engine by polishing the paint. The downstream consequence is chronic fatigue and impaired recovery.
 
 ## Practical Implications: How to Think in Second Order
 
-**1\. Apply the 10% Rule** 
+**1\. Apply the 10% Rule**
 When increasing training volume (sets, reps, or weight), never increase by more than 10% per week. This is the single most effective way to prevent overuse injuries.
 
-**2\. Use the One-Month Test** 
+**2\. Use the One-Month Test**
 Before committing to any diet or training method, ask: "Can I see myself doing this in one month? In one year?" If the answer is no, the downstream consequence is abandonment.
 
-**3\. Prioritize Sleep as Non-Negotiable** 
+**3\. Prioritize Sleep as Non-Negotiable**
 A 5:00 AM workout is useless if you go to bed at midnight. Sleep is when your body repairs muscle, balances hormones, and consolidates learning. Sacrificing it for training is like borrowing money at 30% interest.
 
-**4\. Listen to Pain vs. Soreness** 
-\- **Soreness (DOMS):** Diffuse, bilateral, feels like "good pain" → Push through 
+**4\. Listen to Pain vs. Soreness**
+\- **Soreness (DOMS):** Diffuse, bilateral, feels like "good pain" → Push through
 \- **Pain:** Sharp, localized, joint-specific, feels "wrong" → Stop immediately
 
-**5\. Moderate Your Deficit** 
+**5\. Moderate Your Deficit**
 Instead of severe restriction, use a moderate deficit (300-500 calories) with a weekly "refeed" day. This prevents metabolic adaptation and keeps hunger hormones in check.
 
 * * *
 
 ## Frequently Asked Questions
 
-**"If eating very low calories works so fast, why do people warn against it?"** 
+**"If eating very low calories works so fast, why do people warn against it?"**
 Because the downstream consequences—metabolic adaptation, muscle loss, hormonal disruption, and rebound weight gain—almost always leave you worse off than where you started. The "fast" result is temporary; the long-term result is often more weight than you lost.
 
-**"Why do I get injured when I'm just trying to get stronger?"** 
+**"Why do I get injured when I'm just trying to get stronger?"**
 Tendons and ligaments adapt 2-3 times slower than muscles. The decision to "add weight every session" ignores this biological reality. The downstream consequence is a tendon injury that takes months to heal.
 
-**"Is it bad to do cardio every day?"** 
+**"Is it bad to do cardio every day?"**
 For most people, yes. High daily cardio volume (especially steady-state) chronically elevates cortisol, suppresses immune function, and can reduce muscle protein synthesis. Your body interprets it as chronic stress, not a healthy habit.
 
-**"Why do I feel worse after starting a 'clean' diet?"** 
+**"Why do I feel worse after starting a 'clean' diet?"**
 A sudden switch to very high fiber, low carb, or low sodium can cause "keto flu" or electrolyte imbalance. The downstream consequence is fatigue, brain fog, and irritability—which makes you quit the diet entirely.
 
-**"How do I know if I'm overtraining?"** 
+**"How do I know if I'm overtraining?"**
 Signs include: persistent fatigue, poor sleep, elevated resting heart rate, frequent illness, loss of motivation, and declining performance despite consistent training. If you're getting weaker while working harder, you're overtrained.
 
 * * *
@@ -173,14 +173,14 @@ The answer might save you months of wasted effort—and a lifetime of regret.
 
 * * *
 
-**Sources:** 
-\- _Obesity Reviews_ (2017) - Metabolic adaptation and weight regain 
-\- _Journal of Sports Sciences_ - Training volume and injury risk 
-\- _American Journal of Clinical Nutrition_ (2021) - Supplement safety and caffeine 
-\- _Pain_ journal (2019) - Central sensitization and exercise 
-\- Dr. Mike Israetel, Renaissance Periodization (public lectures) 
-\- Dr. Brad Schoenfeld, "Science and Development of Muscle Hypertrophy" 
-\- Dr. Peter Attia, _The Drive_ podcast 
+**Sources:**
+\- _Obesity Reviews_ (2017) - Metabolic adaptation and weight regain
+\- _Journal of Sports Sciences_ - Training volume and injury risk
+\- _American Journal of Clinical Nutrition_ (2021) - Supplement safety and caffeine
+\- _Pain_ journal (2019) - Central sensitization and exercise
+\- Dr. Mike Israetel, Renaissance Periodization (public lectures)
+\- Dr. Brad Schoenfeld, "Science and Development of Muscle Hypertrophy"
+\- Dr. Peter Attia, _The Drive_ podcast
 \- Dr. Layne Norton, Biolayne (public lectures)
 
 * * *

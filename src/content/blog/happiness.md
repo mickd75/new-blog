@@ -9,8 +9,6 @@ tags: []
 ---
 [![](/wp-images/294425277_366685402252085_3128027222849172581_n.jpg)](/wp-images/294425277_366685402252085_3128027222849172581_n.jpg)
 
- 
-
 Happiness...
 
 We were all born happy and full of joy.

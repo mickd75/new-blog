@@ -52,14 +52,14 @@ Your body adapts to a single stressor quickly. If you only lift heavy, you plate
 
 **Sample hormetic week:**
 
-| Day | Stressor | Details | 
-|-----|----------|---------| 
-| Monday | Heavy lifting (muscle stress) | Compound lifts, RPE 7-8 | 
-| Tuesday | HIIT or sprints (metabolic stress) | 8 x 20-second sprints | 
-| Wednesday | Active recovery + cold exposure | Light walk, 2-min cold shower | 
-| Thursday | Moderate lifting | Same lifts, lower intensity | 
-| Friday | Light cardio + sauna | 20 min jog, then 15 min sauna | 
-| Saturday | Long walk or hike | Low stress, active recovery | 
+| Day | Stressor | Details |
+|-----|----------|---------|
+| Monday | Heavy lifting (muscle stress) | Compound lifts, RPE 7-8 |
+| Tuesday | HIIT or sprints (metabolic stress) | 8 x 20-second sprints |
+| Wednesday | Active recovery + cold exposure | Light walk, 2-min cold shower |
+| Thursday | Moderate lifting | Same lifts, lower intensity |
+| Friday | Light cardio + sauna | 20 min jog, then 15 min sauna |
+| Saturday | Long walk or hike | Low stress, active recovery |
 | Sunday | Full rest | No training, prioritize sleep |
 
 This cycling prevents adaptation plateaus and keeps your body guessing—which is exactly what hormesis needs.
@@ -110,33 +110,32 @@ Hormesis only works if you actually recover. Without recovery, the stress become
 ## Common Mistakes to Avoid
 
 1. **Training to failure every session.** This pushes you past the hormetic zone into chronic stress. Save failure for special occasions.
- 
+
 2. **Using cold exposure after lifting.** Cold blunts the inflammatory response needed for muscle repair. Use it on rest days or after cardio.
- 
+
 3. **Stacking too many stressors at once.** HIIT + fasting + cold plunge + sauna in one day is not hormetic—it’s overwhelming. Let your body adapt to one stressor at a time.
- 
+
 4. **Ignoring individual variation.** What’s “mild” for a 25-year-old athlete may be “excessive” for a 45-year-old beginner. Adjust based on your age, fitness level, and recovery capacity.
- 
+
 5. **Neglecting sleep.** You can do everything right, but without 7-9 hours of quality sleep, the hormetic response is severely blunted.
- 
 
 * * *
 
 ## Frequently Asked Questions
 
-**How long does it take to see results from hormetic training?** 
+**How long does it take to see results from hormetic training?**
 Most people notice improved recovery and energy within 2-3 weeks. Visible changes in body composition and performance take 4-8 weeks, assuming consistent training and recovery.
 
-**Can I get hormetic benefits without exercise?** 
+**Can I get hormetic benefits without exercise?**
 Partially. Cold exposure, sauna use, and intermittent fasting all provide hormetic benefits. But resistance training is unique for building muscle and bone density. A combination is ideal.
 
-**What if I’m over 40? Should I still push hard?** 
+**What if I’m over 40? Should I still push hard?**
 Yes, but with more caution. Your recovery capacity decreases with age. Use lower RPE (6-7 instead of 8), longer rest periods, and more deload weeks. Hormesis still works—you just need a smaller dose.
 
-**Is all stress hormetic?** 
+**Is all stress hormetic?**
 No. Chronic psychological stress (work, relationships, financial pressure) is not hormetic. It’s continuous and uncontrollable, leading to metabolic damage. Hormetic stress is acute, predictable, and followed by recovery.
 
-**How do I know if I’m overtraining?** 
+**How do I know if I’m overtraining?**
 Symptoms include chronic fatigue, poor sleep, increased illness, mood swings, and declining performance. If you experience these, take a full rest week and reassess your training volume.
 
 ## Conclusion
@@ -149,12 +148,12 @@ Remember: the magic isn’t in the stress itself. It’s in the recovery that fo
 
 * * *
 
-**Sources:** 
-\- O'Keefe, J. H., et al. (2012). "Potential adverse cardiovascular effects from excessive endurance exercise." _Mayo Clinic Proceedings_. 
-\- Little, J. P., et al. (2010). "A practical model of low-volume high-intensity interval training induces mitochondrial biogenesis in human skeletal muscle." _Journal of Physiology_. 
-\- Iguchi, M., et al. (2012). "Heat stress and cardiovascular, hormonal, and heat shock protein responses." _Journal of Thermal Biology_. 
-\- Longo, V. D., & Mattson, M. P. (2014). "Fasting: molecular mechanisms and clinical applications." _Cell Metabolism_. 
-\- Sinclair, D. (2019). _Lifespan: Why We Age—and Why We Don't Have To_. Atria Books. 
+**Sources:**
+\- O'Keefe, J. H., et al. (2012). "Potential adverse cardiovascular effects from excessive endurance exercise." _Mayo Clinic Proceedings_.
+\- Little, J. P., et al. (2010). "A practical model of low-volume high-intensity interval training induces mitochondrial biogenesis in human skeletal muscle." _Journal of Physiology_.
+\- Iguchi, M., et al. (2012). "Heat stress and cardiovascular, hormonal, and heat shock protein responses." _Journal of Thermal Biology_.
+\- Longo, V. D., & Mattson, M. P. (2014). "Fasting: molecular mechanisms and clinical applications." _Cell Metabolism_.
+\- Sinclair, D. (2019). _Lifespan: Why We Age—and Why We Don't Have To_. Atria Books.
 \- Mattson, M. P. (2008). "Hormesis defined." _Ageing Research Reviews_.
 
 * * *

@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2023/02/10-tips-to-help-in-developing-deb
 category: ''
 tags: []
 ---
- 
 
 1. Make a list of all debts: Write down all outstanding debts, including credit card balances, loans, and any other liabilities.
 2. Prioritize debts: Rank debts in order of interest rate, with the highest interest rate debt being the top priority.

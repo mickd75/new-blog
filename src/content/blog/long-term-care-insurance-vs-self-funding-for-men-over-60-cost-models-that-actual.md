@@ -13,5 +13,5 @@ For men over 60, long-term care planning is one of the highest-stakes financial 
 
 ### CONTINUE READING >>
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/paul-tubert-physic-motivation.html)

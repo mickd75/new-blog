@@ -15,8 +15,6 @@ Being undisciplined with your finances can seriously undermine your financial go
 
 Take time to reflect on why you make poor financial decisions. Are you shopping for emotional fulfillment? Are you unable to delay gratification? Identifying the root causes of undisciplined behaviors is the first step.
 
- 
-
 ### Create a Budget
 
 A budget provides structure and accountability. Track your income and expenses, identify areas to cut back, and allocate money to needs, wants, and savings. Having a plan makes it easier to stick to it. Review your budget regularly.
@@ -24,8 +22,6 @@ A budget provides structure and accountability. Track your income and expenses, 
 ### Use the 50/30/20 Budget
 
 This budget method devotes 50% of after-tax income to needs, 30% to wants, and 20% to debt payments and savings. Adjust percentages as needed, but it's an effective blueprint.
-
- 
 
 ### Automate Finances
 
@@ -43,8 +39,6 @@ When faced with a big buying decision, force yourself to wait 24 hours before ac
 
 If you lack self-control with credit cards, cut them up and freeze them in a block of ice. The physical barrier creates an obstacle that forces you to pause before using them.
 
- 
-
 ### Seek Accountability
 
 Share your financial goals and spending plan with a trusted friend or partner. Ask them to hold you accountable for sticking to your budget. Having someone question your purchases may help you resist temptation.
@@ -59,5 +53,5 @@ It takes time to break undisciplined financial habits. But implementing structur
 
 ### CONTINUE READING >>
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-chase-roback.html)

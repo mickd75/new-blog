@@ -9,8 +9,6 @@ tags: []
 ---
 Whether or not you should get an American Express (Amex) credit card depends on your financial needs and spending habits. 
 
- 
-
 Here are some benefits of Amex compared to other cards:
 
 * Rewards: Amex offers some of the best rewards programs, including cash back, points, and miles, which can be redeemed for travel, merchandise, and more.

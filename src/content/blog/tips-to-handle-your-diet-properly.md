@@ -9,8 +9,6 @@ tags: []
 ---
 [![](/wp-images/2018-05-19_1782959467732608332.jpg)](/wp-images/2018-05-19_1782959467732608332.jpg)
 
- 
-
 If you're trying to lose fat, when is it time to stop cutting and focus on [gaining muscle](https://www.crazzymonday.com/2022/08/top-3-tips-to-stay-fit.html)?
 
 Chances are if you are currently dieting or have dieted before, you can probably relate to the feeling of never feeling like you're lean enough. We see ourselves every day and continuously increase our expectations so it's normal.

@@ -9,8 +9,6 @@ tags: []
 ---
 Saving for retirement is important for several reasons:
 
- 
-
 \- Financial security: Having adequate savings in retirement can help provide you with financial security and peace of mind, ensuring that you will have enough money to cover your expenses and maintain your standard of living.
 
 \- Longevity: We are living longer than ever, so it's important that you have sufficient savings to cover expenses for a longer retirement.

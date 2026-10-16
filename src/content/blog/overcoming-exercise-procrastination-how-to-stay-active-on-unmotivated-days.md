@@ -9,8 +9,6 @@ tags: ['fitness']
 ---
 Staying consistent with exercise can be a challenge, especially when you're faced with days when motivation seems to be in short supply. However, maintaining a regular exercise routine is crucial for physical and mental well-being. Here are some strategies to help you stay active on those days when you don't feel like it:
 
- 
-
 **Set Realistic Goals:**
 
 * Establish achievable exercise goals. Sometimes, the thought of an intense workout can be daunting, leading to procrastination. Break your goals into smaller, manageable steps, and focus on completing them one at a time.
@@ -31,8 +29,6 @@ Staying consistent with exercise can be a challenge, especially when you're face
 
 * On days when you lack motivation, commit to exercising for just a short period, like 10 or 15 minutes. Once you start, you may find the motivation to continue. Often, getting started is the hardest part.
 
- 
-
 **Use Positive Self-Talk:**
 
 * Replace negative thoughts like "I don't want to" with positive affirmations. Remind yourself of the benefits of exercise and how it makes you feel afterward.
@@ -42,8 +38,6 @@ Staying consistent with exercise can be a challenge, especially when you're face
 * Create a reward system for yourself. After completing a workout, treat yourself to something enjoyable, like a favorite snack or a relaxing bath.
 
 **Visualize Your Goals:**
-
- 
 
 * Picture yourself achieving your fitness goals. Visualization can be a powerful tool to boost motivation and remind you of why exercise is essential.
 
@@ -71,13 +65,11 @@ Staying consistent with exercise can be a challenge, especially when you're face
 
 * Remember that exercise releases endorphins, which can boost your mood and energy levels. Even a short workout can leave you feeling better than before.
 
- 
-
 Incorporating these strategies into your routine can help you overcome the challenge of exercising on days when you lack motivation. Ultimately, making physical activity a consistent part of your lifestyle will lead to better health and increased overall well-being.
 
 **FITNESS INSPIRATION OF THE DAY - M DELGATY**
 
 ### CONTINUE READING >>
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-m-delgaty.html)

@@ -9,8 +9,6 @@ tags: []
 ---
 Preparing for a sudden layoff in 2023 can help you minimize the impact on your financial and personal well-being. Here are some steps you can take to prepare for a sudden layoff:
 
- 
-
 \- Keep your resume and skills up-to-date: Make sure your resume is updated and ready to go, so you can start your job search immediately if necessary. It's also important to keep your skills and knowledge up-to-date so that you are well-prepared for potential job opportunities.
 
 \- Build an emergency fund: Start building an emergency fund that can cover at least three to six months of living expenses. This will provide a financial cushion to help you get through a period of unemployment.

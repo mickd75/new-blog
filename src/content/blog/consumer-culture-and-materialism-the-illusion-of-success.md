@@ -27,5 +27,5 @@ Experientialism is the belief that experiences, not material possessions, lead t
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-nick.html)

@@ -11,7 +11,7 @@ Most New-Year money posts hand you a spreadsheet: cut lattes, boost 401(k), repe
 
 ### 1\. Swap “Budget” for “Mission Control”
 
-**Old wiring:** Budget = deprivation. 
+**Old wiring:** Budget = deprivation.
 **New wiring:** Budget = Mission Control for the life you actually want.
 
 Neuroscientist Dr. Kyra Bobinet shows that the brain clings to _identity_, not numbers. Rename your budget with the identity you’re building: “Mission Control—Future Board-Certified Vet,” or “My Mini-Retirement at 55.” The label triggers the pre-frontal cortex (future you) to override the limbic system (present-you craving tacos). Result: a 27 % jump in follow-through across her Stanford behavior lab.

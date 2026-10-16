@@ -9,8 +9,6 @@ tags: []
 ---
 The utilization of a long-term loan and a credit card will depend on your specific financial situation and goals. 
 
- 
-
 Here's how to effectively utilize each one:
 
 * Long-term loan:

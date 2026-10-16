@@ -7,11 +7,8 @@ originalUrl: "https://crazzymonday.com/2023/01/15-quotes-to-help-you-start-2023.
 category: ''
 tags: []
 ---
- 
 
 Here are 15 quotes to inspire and motivate you as you start the new year:
-
- 
 
 1. "The best way to predict the future is to create it." - Peter Drucker
 2. "The only way to do great work is to love what you do." - Steve Jobs

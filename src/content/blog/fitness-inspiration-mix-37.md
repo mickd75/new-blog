@@ -21,13 +21,3 @@ Technology can have a significant impact on mental health, and it is important t
 
 By being mindful of technology use, individuals can reduce the negative impact of technology on mental health and improve overall well-being.
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 

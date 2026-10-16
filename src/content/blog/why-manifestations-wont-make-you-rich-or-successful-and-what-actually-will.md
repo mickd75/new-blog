@@ -76,7 +76,7 @@ So, if millions of people are manifesting daily and still struggling, what actua
 
 Let’s replace the common “manifestation steps” with what really works.
 
-**1\. Swap “Ask the Universe” for “Build Rare and Valuable Skills”** 
+**1\. Swap “Ask the Universe” for “Build Rare and Valuable Skills”**
 Wealth and success in the real world are not rewards for desire; they are byproducts of value creation. The market pays you for solving a problem it cares about. Instead of scripting your dream life in a journal, spend that 20 minutes learning a high-income skill. Learn to code (or use AI to code), to sell, to write persuasively, to manage projects, to negotiate. The universe is deaf, but the job market and the marketplace have very keen ears. They listen to competence, not affirmations.
 - <https://x.com/Kylekuznikk/status/1990499186803089896>
 - <https://x.com/Kylekuznikk/status/1989385645182390427>
@@ -89,13 +89,13 @@ Wealth and success in the real world are not rewards for desire; they are byprod
 - <https://x.com/Kylekuznikk/status/2062568528184828273>
 - <https://x.com/Kylekuznikk/status/2062217985683751016>
 - <https://x.com/Kylekuznikk/status/2068283700958396527>
-**2\. Replace “Act As If” with “Act, Period”** 
+**2\. Replace “Act As If” with “Act, Period”**
 “Acting as if” you’re already a CEO often translates into spending money you don’t have to look the part, creating a fragile illusion. Real action is building a minimum viable product before you feel ready. It’s sending the cold email that might be ignored. It’s making five sales calls and getting four rejections. It’s the awkward, lumpy, beginner-level work that has no aesthetic and would look terrible on an Instagram story. Success lives in the unglamorous doing, not the aesthetic pretending.
 
-**3\. Ditch “High Vibrations” for High Resilience** 
+**3\. Ditch “High Vibrations” for High Resilience**
 The manifestation world often encourages you to avoid “low-vibe” feelings like doubt, grief, or frustration. But building something meaningful inevitably involves slogging through negative emotions. You can’t positively-think your way out of a cash-flow crisis. You manage it by cutting expenses, calling clients, and getting creative. Resilience isn’t about maintaining a perfect emotional state; it’s about doing the hard thing even when you feel hopeless. Your feelings become irrelevant to your output, and that is true power.
 
-**4\. Stop Chasing Certainty and Start Taking Calculated Risks** 
+**4\. Stop Chasing Certainty and Start Taking Calculated Risks**
 Manifestation rituals can become a way to feel a sense of control without actually risking anything. You stare at the vision board, safe in the fantasy. Wealthy, successful people generally don’t have a mystical certainty about the outcome; they have a high tolerance for uncertainty. They take action without knowing if it will work. They invest time or money. They launch things that might flop. The goal isn’t to feel sure you’ll succeed; it’s to act bravely despite the very real possibility that you won’t.
 
 ### What the “Vibration” Talk Gets Right (by Accident)

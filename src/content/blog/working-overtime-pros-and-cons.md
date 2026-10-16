@@ -22,8 +22,6 @@ Cons of working overtime:
 
 **So, when is the right time to stop working overtime?** 
 
- 
-
 There is no one-size-fits-all answer, as the right time to stop working overtime will vary depending on your individual circumstances. However, there are some signs that you should look out for, which can indicate that it's time to reduce your workload:
 
 * You're feeling overwhelmed: If you're feeling constantly stressed, exhausted, or overwhelmed, it may be time to reduce your workload. This is especially true if your stress levels are impacting your mental health or physical well-being.

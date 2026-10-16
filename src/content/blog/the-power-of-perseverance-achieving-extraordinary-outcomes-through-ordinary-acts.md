@@ -72,5 +72,5 @@ In embracing this truth, you acknowledge that greatness isn't born of a singular
 
 ## CONTINUE READING >>
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-reilly-sterling.html)

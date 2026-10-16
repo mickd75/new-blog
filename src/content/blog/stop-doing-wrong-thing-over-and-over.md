@@ -9,8 +9,6 @@ tags: ['fitness']
 ---
 [![](/wp-images/288760482_421761616525871_4146046787830943767_n.jpg)](/wp-images/288760482_421761616525871_4146046787830943767_n.jpg)
 
- 
-
 **_"Insanity is doing the same thing over and over again and expecting different results."_** 
 
 If something isn’t working for you and you have consistently done it for a while, stop doing it.

@@ -9,8 +9,6 @@ tags: []
 ---
 [![](/wp-images/300064253_637227207541867_8541185488815451112_n.jpg)](/wp-images/300064253_637227207541867_8541185488815451112_n.jpg)
 
- 
-
 How to stay consistent with your workouts early in your fitness journey?
 
 Staying consistent is one of the most important (and difficult) aspects of fitness

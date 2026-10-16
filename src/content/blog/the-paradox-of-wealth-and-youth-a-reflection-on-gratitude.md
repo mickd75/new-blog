@@ -55,5 +55,5 @@ Your journey doesn't end at being a millionaire or wishing to turn back time. It
 
 ## CONTINUE READING >>
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-alex-crockford.html)

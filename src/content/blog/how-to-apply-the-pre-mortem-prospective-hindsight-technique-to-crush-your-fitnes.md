@@ -28,10 +28,10 @@ This guide will walk you through exactly how to run a Pre-Mortem for your next f
 
 Before you can imagine failure, you need to know exactly what failure looks like. Vague goals produce vague Pre-Mortems.
 
-**Weak goal:** "I want to get stronger." 
+**Weak goal:** "I want to get stronger."
 **Strong goal:** "I will squat 225 pounds for 5 reps within 12 weeks by training legs twice per week."
 
-**Weak goal:** "I want to eat healthier." 
+**Weak goal:** "I want to eat healthier."
 **Strong goal:** "I will eat in a 300-calorie deficit six days per week and get 150g of protein daily for the next 90 days."
 
 **Why this matters:** The Pre-Mortem requires a specific target. If your goal is fuzzy, your failure analysis will be fuzzy too.
@@ -68,11 +68,10 @@ This is based on research by psychologist Peter Gollwitzer on **implementation i
 
 **| Failure Reason | If-Then Countermeasure |**
 
- 
-"I got sick and never restarted." | _If_ I get sick for more than three days, _then_ I will restart with just a 15-minute walk on day 8—not a full workout. | 
-"I over-restricted and binged." | _If_ I feel ravenous from my calorie deficit, _then_ I will add 100 calories of protein to my dinner immediately. | 
-"I missed one workout and skipped the week." | _If_ I miss a scheduled workout, _then_ I will do a 10-minute home bodyweight session the next day—no guilt, no excuses. | 
-"Social events derailed my diet." | _If_ I have a party or dinner out, _then_ I will eat a high-protein snack beforehand and limit myself to one drink. | 
+"I got sick and never restarted." | _If_ I get sick for more than three days, _then_ I will restart with just a 15-minute walk on day 8—not a full workout. |
+"I over-restricted and binged." | _If_ I feel ravenous from my calorie deficit, _then_ I will add 100 calories of protein to my dinner immediately. |
+"I missed one workout and skipped the week." | _If_ I miss a scheduled workout, _then_ I will do a 10-minute home bodyweight session the next day—no guilt, no excuses. |
+"Social events derailed my diet." | _If_ I have a party or dinner out, _then_ I will eat a high-protein snack beforehand and limit myself to one drink. |
 "I lost motivation when I didn't see progress." | _If_ I don't see scale progress for two weeks, _then_ I will switch to measuring waist circumference or tracking gym performance instead. |
 
 **Key insight:** The "if" part must be specific. "If I lose motivation" is too vague. "If I don't see scale progress for two weeks" is specific—and solvable.
@@ -83,11 +82,11 @@ Your Pre-Mortem revealed weak spots. Don't wait for them to happen. Fix them tod
 
 **Common environmental fixes:**
 
-| Failure Point | Fix | 
-|---|---| 
-| "I'll skip the gym because it's cold in the morning." | Lay out workout clothes and shoes next to your bed the night before. | 
-| "I'll eat junk food if it's in the house." | Don't buy it. Stock healthy alternatives (Greek yogurt, fruit, protein bars). | 
-| "I'll forget to pack my gym bag." | Keep a packed bag in your car or by the door at all times. | 
+| Failure Point | Fix |
+|---|---|
+| "I'll skip the gym because it's cold in the morning." | Lay out workout clothes and shoes next to your bed the night before. |
+| "I'll eat junk food if it's in the house." | Don't buy it. Stock healthy alternatives (Greek yogurt, fruit, protein bars). |
+| "I'll forget to pack my gym bag." | Keep a packed bag in your car or by the door at all times. |
 | "I'll make bad decisions when I'm hungry." | Prep meals or at least have a high-protein snack ready for emergencies. |
 
 **The goal:** Make the right choice the _easy_ choice. Make the wrong choice the _inconvenient_ choice.
@@ -151,19 +150,19 @@ This isn't pessimism. It's **defensive pessimism** used strategically. By imagin
 
 ## Frequently Asked Questions
 
-**How long does a Pre-Mortem take?** 
+**How long does a Pre-Mortem take?**
 The initial exercise takes 15–20 minutes. A quick "Mid-Mortem" review (checking if any predicted failures are starting to happen) takes 5 minutes every two weeks.
 
-**Isn't this just negative thinking? Won't it demotivate me?** 
+**Isn't this just negative thinking? Won't it demotivate me?**
 No. A Pre-Mortem is not pessimism—it's preparation. By imagining failure _now_, you reduce anxiety later. You're not expecting to fail; you're planning to succeed by eliminating the most likely failure points.
 
-**How is this different from a regular risk assessment?** 
+**How is this different from a regular risk assessment?**
 A risk assessment asks "What could go wrong?" (abstract, often ignored). A Pre-Mortem asks "It _did_ go wrong. Why?" (specific, emotional, actionable). The imagined failure creates urgency that abstract thinking doesn't.
 
-**Do I do this once, or repeatedly?** 
+**Do I do this once, or repeatedly?**
 Do a full Pre-Mortem at the start of a new fitness phase (e.g., a 12-week program). Then, do a quick "Mid-Mortem" every 2–4 weeks to check if any of your predicted failures are starting to happen.
 
-**What if I don't know what obstacles I'll face?** 
+**What if I don't know what obstacles I'll face?**
 You do. Be honest. Think about past attempts at fitness goals. What went wrong before? That's your blueprint. Also, common obstacles are well-documented: illness, social events, plateaus, boredom, injury. Start with those.
 
 * * *
@@ -180,11 +179,11 @@ The gym doesn't care about your motivation. It cares about your systems. Build b
 
 * * *
 
-**Sources:** 
-\- Klein, G. (2007). _The Power of Intuition: How to Use Your Gut Feelings to Make Better Decisions at Work_. Currency/Doubleday. 
-\- Kahneman, D. (2011). _Thinking, Fast and Slow_. Farrar, Straus and Giroux. 
-\- Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. _American Psychologist_, 54(7), 493–503. 
-\- Fogg, B. J. (2019). _Tiny Habits: The Small Changes That Change Everything_. Houghton Mifflin Harcourt. 
+**Sources:**
+\- Klein, G. (2007). _The Power of Intuition: How to Use Your Gut Feelings to Make Better Decisions at Work_. Currency/Doubleday.
+\- Kahneman, D. (2011). _Thinking, Fast and Slow_. Farrar, Straus and Giroux.
+\- Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. _American Psychologist_, 54(7), 493–503.
+\- Fogg, B. J. (2019). _Tiny Habits: The Small Changes That Change Everything_. Houghton Mifflin Harcourt.
 \- Heath, C., & Heath, D. (2010). _Switch: How to Change Things When Change Is Hard_. Broadway Books.
 
 * * *

@@ -13,7 +13,7 @@ Comparing your finances to others can lead to envy, anxiety, and unhealthy behav
 
 ### Remember You Only See a Snapshot
 
-On social media, people curate the best moments of their lives to project an image of success. You likely don't see the full picture of their financial struggles, debts, or sacrifices. Don't compare your behind-the-scenes to their highlight reel. 
+On social media, people curate the best moments of their lives to project an image of success. You likely don't see the full picture of their financial struggles, debts, or sacrifices. Don't compare your behind-the-scenes to their highlight reel.
 
 ### Focus on Your Own Goals
 
@@ -25,7 +25,7 @@ Just because others spend more doesn't mean you need to increase your expenses t
 
 ### Be Grateful for What You Have
 
-Rather than fixating on what's missing, practice gratitude for what you do have - your health, friends, family, job, and basic necessities. Shifting your mindset to appreciation will reduce envy. 
+Rather than fixating on what's missing, practice gratitude for what you do have - your health, friends, family, job, and basic necessities. Shifting your mindset to appreciation will reduce envy.
 
 ### Realize Money Isn't Everything
 
@@ -33,7 +33,7 @@ Wealth does not equal happiness. Many people with high incomes still struggle wi
 
 ### Focus on Building Your Net Worth
 
-Rather than comparing incomes, compare net worth figures. Savings, investments, home equity and other assets are a truer measure of wealth. Focus on increasing your own net worth over time through smart financial habits. 
+Rather than comparing incomes, compare net worth figures. Savings, investments, home equity and other assets are a truer measure of wealth. Focus on increasing your own net worth over time through smart financial habits.
 
 ### Practice Self-Compassion
 
@@ -45,4 +45,4 @@ Happiness comes from being content with what you have, not what others possess. 
 
 ### Avoid Envy
 
-When feelings of envy arise, acknowledge them without judgment. Then redirect your thoughts to things you're grateful for in your own life. Over time, envy will fade. Comparing yourself financially leads to suffering. Focus instead on gratitude, self-acceptance and progress against your own goals. You'll be happier and more at peace with where you're at. 
+When feelings of envy arise, acknowledge them without judgment. Then redirect your thoughts to things you're grateful for in your own life. Over time, envy will fade. Comparing yourself financially leads to suffering. Focus instead on gratitude, self-acceptance and progress against your own goals. You'll be happier and more at peace with where you're at.

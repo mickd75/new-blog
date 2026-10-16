@@ -9,8 +9,6 @@ tags: []
 ---
 The percentage of your earnings that should be allocated towards savings can vary depending on your individual financial goals and circumstances. However, **a commonly recommended percentage is 20%. This means that you should aim to save 20% of your income each month.**
 
- 
-
 One reason why this percentage is often recommended is that it allows you to save enough money to cover your expenses for at least three to six months in case of an emergency or unexpected situation. This is known as building an emergency fund. This can help you to avoid going into debt or having to rely on credit cards to cover unexpected expenses.
 
 Additionally, saving 20% of your income each month can also help you to reach your long-term financial goals, such as saving for retirement or buying a house. It allows you to consistently put money aside for these big-ticket items and can help you to achieve them more quickly.

@@ -9,7 +9,7 @@ tags: ['self-improvement']
 ---
 ### How to Stop Being Financially Illiterate
 
-Financial literacy is a crucial life skill, yet many of us enter adulthood lacking basic knowledge about money management. Remaining financially illiterate can be extremely costly over a lifetime. Luckily, there are steps you can take to educate yourself and change your financial trajectory. 
+Financial literacy is a crucial life skill, yet many of us enter adulthood lacking basic knowledge about money management. Remaining financially illiterate can be extremely costly over a lifetime. Luckily, there are steps you can take to educate yourself and change your financial trajectory.
 
 ### Learn Financial Terminology
 
@@ -24,7 +24,7 @@ makes it easier to grasp key principles and make informed decisions. Investing i
 
 ### Understand Your Credit Report
 
-Knowing how to access, read, and improve your credit report is foundational. Learn what impacts your credit score and how to avoid delinquencies. Dispute any errors on your report. Monitoring your credit regularly is vital. 
+Knowing how to access, read, and improve your credit report is foundational. Learn what impacts your credit score and how to avoid delinquencies. Dispute any errors on your report. Monitoring your credit regularly is vital.
 
 ### Create a Budget
 
@@ -36,8 +36,8 @@ Saving for unexpected expenses is a critical safety net. Aim to gradually set as
 
 ### Learn About Taxes
 
-Understand how income taxes work and how to optimize your filing. Educate yourself on deductions and credits you may be eligible for. File your taxes yourself or use a reputable preparer - don't rely on tax software blindly. Stay organized with all tax documents. 
+Understand how income taxes work and how to optimize your filing. Educate yourself on deductions and credits you may be eligible for. File your taxes yourself or use a reputable preparer - don't rely on tax software blindly. Stay organized with all tax documents.
 
 ### Explore Investing
 
-Investing allows your money to grow over time. Learn about options like stocks, bonds, mutual funds, and real estate. Understand fundamentals like diversification, risk tolerance, and compound returns. Start small and invest regularly once you've gained knowledge. 
+Investing allows your money to grow over time. Learn about options like stocks, bonds, mutual funds, and real estate. Understand fundamentals like diversification, risk tolerance, and compound returns. Start small and invest regularly once you've gained knowledge.

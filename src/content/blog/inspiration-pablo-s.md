@@ -13,7 +13,7 @@ A secure retirement takes planning and discipline. Here are some common retireme
 
 ### Not Saving Enough Early On
 
-The longer your money has to grow, the more it's worth at retirement. Start saving as early as possible, even if just a small amount. Compounding interest and time are on your side. 
+The longer your money has to grow, the more it's worth at retirement. Start saving as early as possible, even if just a small amount. Compounding interest and time are on your side.
 
 ### Not Contributing Enough
 
@@ -21,7 +21,7 @@ Many people do not save enough for a comfortable retirement. Aim to save 10-15% 
 
 ### Raiding Your Retirement Funds
 
-Only tap your retirement accounts as an absolute last resort. Every time you withdraw money, you lose out on potential growth and compound interest. Avoid cashing out early. 
+Only tap your retirement accounts as an absolute last resort. Every time you withdraw money, you lose out on potential growth and compound interest. Avoid cashing out early.
 
 ### Not Taking Advantage of Employer Matching Funds
 
@@ -33,7 +33,7 @@ Don't keep all your retirement funds in one type of investment. A diversified po
 
 ### Taking on Too Much Risk
 
-As you near retirement, shift your investments to more conservative options that are less vulnerable to market swings. Avoid being too aggressive with your money when you'll need it soon. 
+As you near retirement, shift your investments to more conservative options that are less vulnerable to market swings. Avoid being too aggressive with your money when you'll need it soon.
 
 ### Not Accounting for Inflation
 
@@ -45,8 +45,8 @@ Build up a cash reserve to cover at least 3-6 months of essential expenses. This
 
 ### Not Planning for Healthcare Costs
 
-Healthcare is typically the largest expense in retirement. Research Medicare options, supplement plans, and out-of-pocket costs to incorporate into your financial plan. 
+Healthcare is typically the largest expense in retirement. Research Medicare options, supplement plans, and out-of-pocket costs to incorporate into your financial plan.
 
 ### Not Creating a Withdrawal Strategy
 
-Work with a financial advisor to develop a withdrawal strategy that maximizes Social Security, pension income, and investment returns. Have a plan for spending down your nest egg. Avoiding these common mistakes will put you in a much stronger position for a financially secure retirement. The earlier you address them, the more impactful the positive changes will be. 
+Work with a financial advisor to develop a withdrawal strategy that maximizes Social Security, pension income, and investment returns. Have a plan for spending down your nest egg. Avoiding these common mistakes will put you in a much stronger position for a financially secure retirement. The earlier you address them, the more impactful the positive changes will be.

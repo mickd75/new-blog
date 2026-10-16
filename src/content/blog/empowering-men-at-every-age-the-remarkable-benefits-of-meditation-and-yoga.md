@@ -35,5 +35,5 @@ FITNESS INSPIRATION OF THE DAY - JJAMES
 
 ### CONTINUE READING >>
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/fitness-mix-jjames.html)

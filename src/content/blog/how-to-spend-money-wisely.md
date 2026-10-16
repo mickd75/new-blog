@@ -9,8 +9,6 @@ tags: []
 ---
 Spending money wisely is an important part of managing your finances. 
 
- 
-
 Here are some tips to help you spend money wisely:
 
 * Create a budget: A budget is a financial plan that helps you to track your income and expenses and to identify areas where you can cut back. By creating a budget, you can gain a better understanding of your financial situation and identify areas where you can reduce expenses.

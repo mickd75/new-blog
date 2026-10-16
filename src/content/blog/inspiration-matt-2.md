@@ -26,4 +26,3 @@ Making major lifestyle changes all at once rarely sticks long-term. More often t
 
  [](/wp-images/107514673_712970339499008_8018044663187464193_n.jpg)
 
- 

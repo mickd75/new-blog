@@ -57,11 +57,11 @@ You can't go from a high-stimulus environment (screens, stress, pre-workout) dir
 
 **The amateur routine:** Scroll TikTok in bed until eyes close.
 
-**The pro routine:** 
-\- **T-60 minutes:** Dim lights throughout the house 
-\- **T-45 minutes:** No screens. Blue light disrupts melatonin production 
-\- **T-30 minutes:** Light stretching, foam rolling, or meditation 
-\- **T-15 minutes:** Read a physical book (not a Kindle with backlight) 
+**The pro routine:**
+\- **T-60 minutes:** Dim lights throughout the house
+\- **T-45 minutes:** No screens. Blue light disrupts melatonin production
+\- **T-30 minutes:** Light stretching, foam rolling, or meditation
+\- **T-15 minutes:** Read a physical book (not a Kindle with backlight)
 \- **T-0:** Lights out
 
 > **Warning:** Stop caffeine intake 6–8 hours before bed. Caffeine's half-life is 5–6 hours. That 3 PM pre-workout is still in your system at 9 PM, wrecking your deep sleep.
@@ -80,9 +80,9 @@ Rest days don't mean "do nothing." They mean "do the right kind of nothing."
 
 Subjective feeling is unreliable. You might _feel_ fine but have terrible sleep quality.
 
-**What to track:** 
-\- **Sleep duration:** Total time asleep 
-\- **Sleep stages:** Deep sleep (NREM Stage 3) and REM 
+**What to track:**
+\- **Sleep duration:** Total time asleep
+\- **Sleep stages:** Deep sleep (NREM Stage 3) and REM
 \- **HRV (Heart Rate Variability):** The gold standard for recovery readiness
 
 **Tools:** Whoop, Oura Ring, or even a basic Apple Watch.
@@ -97,9 +97,9 @@ What you eat before bed directly impacts sleep quality and overnight muscle repa
 
 **The amateur mistake:** Large, heavy meals or alcohol before bed.
 
-**The pro approach:** 
-\- Stop eating 2–3 hours before bed 
-\- If you need a snack: small protein-rich option (cottage cheese, casein protein, Greek yogurt) 
+**The pro approach:**
+\- Stop eating 2–3 hours before bed
+\- If you need a snack: small protein-rich option (cottage cheese, casein protein, Greek yogurt)
 \- Avoid: spicy foods, high-fat meals, sugar
 
 **About alcohol:** This is the single biggest controllable factor that ruins recovery. Even if you fall asleep quickly, alcohol suppresses REM and deep sleep. It dehydrates you and spikes cortisol.
@@ -118,16 +118,16 @@ These supplements have solid evidence for improving sleep quality:
 
 ## Real-World Example: The 30-Day Sleep Transformation
 
-**Before (Amateur):** 
-\- Sleep: 5–6 hours, irregular schedule 
-\- Training: Pushing through fatigue, missing reps 
-\- Recovery: Constant soreness, low motivation 
+**Before (Amateur):**
+\- Sleep: 5–6 hours, irregular schedule
+\- Training: Pushing through fatigue, missing reps
+\- Recovery: Constant soreness, low motivation
 \- Results: Plateaued for 3 months
 
-**After (Pro):** 
-\- Sleep: 8 hours, same bedtime every night 
-\- Training: Better focus, hitting PRs 
-\- Recovery: Less soreness, higher energy 
+**After (Pro):**
+\- Sleep: 8 hours, same bedtime every night
+\- Training: Better focus, hitting PRs
+\- Recovery: Less soreness, higher energy
 \- Results: 10 lbs lean muscle gained in 8 weeks
 
 The difference wasn't a new program or supplement. It was sleep.
@@ -206,13 +206,13 @@ Your gains are waiting on the other side of a good night's sleep.
 
 * * *
 
-**Sources:** 
-\- _Why We Sleep_ by Dr. Matthew Walker (2017) 
-\- Stanford University Sleep Medicine – Dr. Cheri Mah's sleep and athletic performance studies 
-\- _The Impact of Sleep on Exercise Performance and Recovery_ – Journal of Clinical Sleep Medicine 
-\- _Sleep, Recovery, and Athletic Performance_ – Sports Medicine journal 
-\- Andy Galpin – Professor of Kinesiology, CSU Fullerton; recovery protocols 
-\- National Sleep Foundation – Sleep duration and hygiene guidelines 
+**Sources:**
+\- _Why We Sleep_ by Dr. Matthew Walker (2017)
+\- Stanford University Sleep Medicine – Dr. Cheri Mah's sleep and athletic performance studies
+\- _The Impact of Sleep on Exercise Performance and Recovery_ – Journal of Clinical Sleep Medicine
+\- _Sleep, Recovery, and Athletic Performance_ – Sports Medicine journal
+\- Andy Galpin – Professor of Kinesiology, CSU Fullerton; recovery protocols
+\- National Sleep Foundation – Sleep duration and hygiene guidelines
 \- Huberman Lab Podcast (Dr. Andrew Huberman) – Sleep, circadian rhythm, and recovery protocols
 
 * * *

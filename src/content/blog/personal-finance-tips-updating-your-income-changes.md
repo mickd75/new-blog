@@ -7,7 +7,7 @@ originalUrl: "https://crazzymonday.com/2024/05/personal-finance-tips-updating-yo
 category: 'Fitness'
 tags: ['fitness']
 ---
-Keeping your credit card company updated on changes in your income can have several benefits, including qualifying for an automatic credit limit increase and potentially raising your credit score. If you have received a raise or promotion, it's worth reporting your increased income to your lender. 
+Keeping your credit card company updated on changes in your income can have several benefits, including qualifying for an automatic credit limit increase and potentially raising your credit score. If you have received a raise or promotion, it's worth reporting your increased income to your lender.
 
 * * When you report your increased income, your credit card company may automatically increase your credit limit. This increase can help improve your credit utilization ratio, which is a significant factor in determining your credit score. A higher credit limit can also provide more flexibility in managing your finances and can be helpful during emergencies.
  * If the credit limit increase isn't automatic, you can request one with your bank or lender. You'll need to provide proof of your increased income, such as a recent pay stub or a tax return.

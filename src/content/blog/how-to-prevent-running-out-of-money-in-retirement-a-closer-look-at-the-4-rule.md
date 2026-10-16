@@ -43,5 +43,5 @@ FITNESS INSPIRATION OF THE DAY - JAKE B
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-jake-burton.html)

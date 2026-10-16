@@ -9,8 +9,6 @@ tags: []
 ---
 Refinancing is the process of obtaining a new loan to pay off existing debts or to improve the terms and conditions of an existing loan. 
 
- 
-
 Here are some ways to take advantage of refinancing:
 
 * Lower interest rate: [Refinancing can potentially lower your monthly payments](https://www.bankofamerica.com/mortgage/learn/refinancing-to-lower-payment/#:~:text=Potential%20benefits%20of%20lowering%20your,your%20other%20debts%20and%20expenses.) by securing a lower interest rate on your loan.

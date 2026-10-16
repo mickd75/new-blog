@@ -9,10 +9,6 @@ tags: []
 ---
 Staying complacent, or being satisfied with the status quo, can be dangerous for several reasons:
 
- 
-
- 
-
 * Lack of growth and development: When people become complacent, they may stop challenging themselves and stop growing and developing. This can lead to stagnation in their personal and professional lives.
 * Missed opportunities: Staying complacent can cause people to miss out on opportunities for advancement, growth, and success. They may not take advantage of opportunities that come their way because they are satisfied with the way things are.
 * Risk of falling behind: In a constantly changing world, staying complacent can cause people to fall behind their peers, competitors, and society as a whole. They may not be aware of new trends and developments and thus be at a disadvantage.

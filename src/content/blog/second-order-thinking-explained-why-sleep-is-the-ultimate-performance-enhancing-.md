@@ -50,10 +50,10 @@ During deep sleep (slow-wave sleep), your pituitary gland releases HGH. This hor
 
 ### Step 3: Hormonal Balance Determines Results
 
-Sleep deprivation elevates evening cortisol. High cortisol: 
-\- Blocks testosterone receptors 
-\- Increases fat storage (especially visceral fat) 
-\- Impairs immune function 
+Sleep deprivation elevates evening cortisol. High cortisol:
+\- Blocks testosterone receptors
+\- Increases fat storage (especially visceral fat)
+\- Impairs immune function
 \- Reduces insulin sensitivity
 
 **Second-order result:** You can eat perfectly and train religiously, but if your cortisol is high because you’re sleep-deprived, your body will preferentially store fat and break down muscle.
@@ -68,13 +68,13 @@ Over weeks and months, the difference between 6 hours and 8 hours of sleep compo
 
 ## Why It Matters: The Data You Can’t Ignore
 
-**| Variable | 6 Hours of Sleep | 8 Hours of Sleep | 
-**|----------|------------------|------------------| 
-| HGH secretion | Severely reduced | Peak release (70–80% of daily total) | 
-| Cortisol levels | Elevated (catabolic) | Low (anabolic) | 
-| Muscle glycogen | Impaired replenishment | Full restoration | 
-| Reaction time | Impaired (equivalent to BAC 0.05%) | Optimal | 
-| Injury risk (adolescents) | 1.7x higher | Baseline | 
+**| Variable | 6 Hours of Sleep | 8 Hours of Sleep |
+**|----------|------------------|------------------|
+| HGH secretion | Severely reduced | Peak release (70–80% of daily total) |
+| Cortisol levels | Elevated (catabolic) | Low (anabolic) |
+| Muscle glycogen | Impaired replenishment | Full restoration |
+| Reaction time | Impaired (equivalent to BAC 0.05%) | Optimal |
+| Injury risk (adolescents) | 1.7x higher | Baseline |
 | Fat loss during diet | 55% less fat loss | Optimal fat loss |
 
 **Source:** _Nedeltcheva et al., Annals of Internal Medicine; Milewski et al., Journal of Pediatric Orthopaedics; Williamson & Feyer, Occupational and Environmental Medicine_
@@ -113,31 +113,31 @@ No. Oversleeping (>9 hours regularly) is associated with increased inflammation 
 
 ### Actionable Steps
 
-| Factor | What to Do | 
-|--------|------------| 
-| **Temperature** | Keep bedroom cool (65–68°F / 18–20°C). Body temperature drop triggers sleep onset. | 
-| **Light management** | No bright screens 60–90 minutes before bed. Use blue-blocking glasses or dim red lights. | 
-| **Consistency** | Wake up and go to bed at the same time every day—including weekends. | 
-| **Caffeine cutoff** | No caffeine after 2:00 PM (or 10 hours before bed). Caffeine half-life is 5–6 hours. | 
+| Factor | What to Do |
+|--------|------------|
+| **Temperature** | Keep bedroom cool (65–68°F / 18–20°C). Body temperature drop triggers sleep onset. |
+| **Light management** | No bright screens 60–90 minutes before bed. Use blue-blocking glasses or dim red lights. |
+| **Consistency** | Wake up and go to bed at the same time every day—including weekends. |
+| **Caffeine cutoff** | No caffeine after 2:00 PM (or 10 hours before bed). Caffeine half-life is 5–6 hours. |
 | **Alcohol** | Avoid alcohol within 3 hours of bed. It fragments sleep and suppresses REM. |
 
 * * *
 
 ## Frequently Asked Questions
 
-**Can I build muscle on 6 hours of sleep if my diet and training are perfect?** 
+**Can I build muscle on 6 hours of sleep if my diet and training are perfect?**
 No. Without adequate sleep, HGH secretion drops, cortisol rises, and protein synthesis is impaired. You’ll still make some progress, but you’re leaving significant gains on the table.
 
-**What if I wake up in the middle of the night and can’t fall back asleep?** 
+**What if I wake up in the middle of the night and can’t fall back asleep?**
 Don’t panic. Get out of bed, go to a dark room, and do something boring (read a physical book, listen to a podcast). Avoid screens. Return to bed only when you feel sleepy again. This prevents conditioned arousal.
 
-**Does the type of training matter? (e.g., strength vs. endurance)** 
+**Does the type of training matter? (e.g., strength vs. endurance)**
 Both benefit, but strength and power athletes may see even larger gains from sleep optimization because of the HGH and testosterone connection. Endurance athletes benefit from glycogen replenishment and reduced injury risk.
 
-**Should I take magnesium or other supplements for sleep?** 
+**Should I take magnesium or other supplements for sleep?**
 Magnesium glycinate can help, but it’s a tool, not a solution. Fix the root causes first: light exposure, caffeine timing, and temperature. Supplements are the cherry on top, not the sundae.
 
-**How do I know if I’m getting enough sleep?** 
+**How do I know if I’m getting enough sleep?**
 You wake up without an alarm, feel refreshed, and don’t need caffeine to function. Your mood is stable, and your lifts are progressing. If you’re dragging yourself out of bed, you’re not getting enough.
 
 ## Conclusion
@@ -150,12 +150,12 @@ Prioritize sleep. Your body—and your results—will thank you.
 
 * * *
 
-**Sources:** 
-\- Walker, M. (2017). _Why We Sleep: Unlocking the Power of Sleep and Dreams_. Scribner. 
-\- Van Cauter, E., et al. (1998). "Impact of sleep debt on metabolic and endocrine function." _The Lancet_. 
-\- Nedeltcheva, A. V., et al. (2010). "Insufficient sleep undermines dietary efforts to reduce adiposity." _Annals of Internal Medicine_. 
-\- Milewski, M. D., et al. (2014). "Chronic lack of sleep is associated with increased sports injury in adolescent athletes." _Journal of Pediatric Orthopaedics_. 
-\- Mah, C. D., et al. (2011). "The effects of sleep extension on the athletic performance of collegiate basketball players." _Sleep_. 
+**Sources:**
+\- Walker, M. (2017). _Why We Sleep: Unlocking the Power of Sleep and Dreams_. Scribner.
+\- Van Cauter, E., et al. (1998). "Impact of sleep debt on metabolic and endocrine function." _The Lancet_.
+\- Nedeltcheva, A. V., et al. (2010). "Insufficient sleep undermines dietary efforts to reduce adiposity." _Annals of Internal Medicine_.
+\- Milewski, M. D., et al. (2014). "Chronic lack of sleep is associated with increased sports injury in adolescent athletes." _Journal of Pediatric Orthopaedics_.
+\- Mah, C. D., et al. (2011). "The effects of sleep extension on the athletic performance of collegiate basketball players." _Sleep_.
 \- Huberman, A. (2021). _Huberman Lab Podcast: Master Your Sleep & Be More Alert When Awake_. Stanford University.
 
 * * *

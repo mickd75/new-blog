@@ -9,7 +9,7 @@ tags: ['self-improvement']
 ---
 ###  The Power of Compounding Interest Over Time
 
-Albert Einstein reportedly called compound interest "the most powerful force in the universe." Here's why this concept is so crucial for wealth-building, with examples to illustrate its power: 
+Albert Einstein reportedly called compound interest "the most powerful force in the universe." Here's why this concept is so crucial for wealth-building, with examples to illustrate its power:
 
 ### What is Compound Interest?
 
@@ -29,4 +29,4 @@ To make the most of compound interest, start investing as early as possible, rei
 
 ### The Bottom Line
 
-Compound interest is a powerful tool for building wealth. It rewards savers and investors for patience and consistency. The earlier you start, the more time compound interest has to work its magic. 
+Compound interest is a powerful tool for building wealth. It rewards savers and investors for patience and consistency. The earlier you start, the more time compound interest has to work its magic.

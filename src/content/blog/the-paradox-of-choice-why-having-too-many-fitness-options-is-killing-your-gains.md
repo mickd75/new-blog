@@ -25,8 +25,8 @@ That's exactly what happened in Schwartz's famous 2000 study. Shoppers who saw 2
 
 Now replace "jam" with "workout program." The same psychology applies.
 
-Schwartz identified two types of decision-makers: 
-\- **Maximizers:** People who seek the _absolute best_ option. They compare endlessly, feel regret, and are often unhappy with their choice. 
+Schwartz identified two types of decision-makers:
+\- **Maximizers:** People who seek the _absolute best_ option. They compare endlessly, feel regret, and are often unhappy with their choice.
 \- **Satisficers:** People who look for something "good enough" and move on. They're generally happier and more productive.
 
 **Most fitness failures come from maximizers trying to find the perfect program instead of satisficers committing to a good one.**
@@ -37,10 +37,10 @@ Here's the step-by-step breakdown of how the paradox of choice destroys your fit
 
 ### Step 1: The Overwhelm
 
-You want to get in shape. You search "best workout routine." You're hit with: 
-\- 15 different workout splits 
-\- 20 diet protocols 
-\- 30 supplement brands 
+You want to get in shape. You search "best workout routine." You're hit with:
+\- 15 different workout splits
+\- 20 diet protocols
+\- 30 supplement brands
 \- 100 conflicting expert opinions
 
 ### Step 2: Analysis Paralysis
@@ -99,21 +99,21 @@ Here's your action plan to escape the paradox of choice and actually make progre
 
 Choose a proven, simple program and commit to it for **12 weeks**. No changing. No comparing. Just doing.
 
-**Good starter options:** 
-\- StrongLifts 5x5 
-\- Starting Strength 
-\- A simple Push/Pull/Legs (3 days/week) 
+**Good starter options:**
+\- StrongLifts 5x5
+\- Starting Strength
+\- A simple Push/Pull/Legs (3 days/week)
 \- An Upper/Lower split (4 days/week)
 
 ### 2\. Limit Your Exercise Library
 
-Pick **5-8 compound movements** and stick with them: 
-\- Squat 
-\- Deadlift 
-\- Bench Press 
-\- Overhead Press 
-\- Pull-up (or Row) 
-\- Lunge 
+Pick **5-8 compound movements** and stick with them:
+\- Squat
+\- Deadlift
+\- Bench Press
+\- Overhead Press
+\- Pull-up (or Row)
+\- Lunge
 \- Plank
 
 That's it. Add variations later, if needed.
@@ -136,19 +136,19 @@ You need: Protein powder, Creatine, and maybe Vitamin D. That's it. Everything e
 
 ## Frequently Asked Questions
 
-**What is the best workout split for muscle growth?** 
+**What is the best workout split for muscle growth?**
 There is no single "best" split. The best split is the one you can adhere to consistently. Beginners should start with a simple full-body routine or Upper/Lower split to minimize decisions.
 
-**Should I do Keto, Paleo, or just count calories?** 
+**Should I do Keto, Paleo, or just count calories?**
 Pick one simple framework and stick with it. "Eat protein with every meal, eat vegetables, drink water" is often more effective than optimizing between three complex protocols.
 
-**I keep switching programs because I'm afraid of missing out. What do I do?** 
+**I keep switching programs because I'm afraid of missing out. What do I do?**
 Commit to a single program for 12 weeks and **forbid yourself from changing.** Trust the process. FOMO is the enemy of progress.
 
-**Is it better to train at home or at a gym?** 
+**Is it better to train at home or at a gym?**
 Both work. The paradox of choice often paralyzes people into doing neither. Pick the option that removes the most barriers to action. Start.
 
-**How do I know if a program is "good enough"?** 
+**How do I know if a program is "good enough"?**
 Does it include progressive overload? Compound movements? Consistency? If yes, it's good enough. Stop looking.
 
 * * *
@@ -165,12 +165,12 @@ Stop being a maximizer. Become a satisficer. Your future gains will thank you.
 
 * * *
 
-**Sources:** 
-\- Schwartz, B. (2004). _The Paradox of Choice: Why More Is Less._ HarperCollins. 
-\- Iyengar, S. S., & Lepper, M. R. (2000). "When choice is demotivating: Can one desire too much of a good thing?" _Journal of Personality and Social Psychology, 79_(6), 995–1006. 
-\- Dan John. _Intervention: Course Corrections for the Athlete and Trainer._ On Target Publications. 
-\- Rippetoe, M., & Kilgore, L. (2007). _Starting Strength: Basic Barbell Training._ The Aasgaard Company. 
-\- Wendler, J. (2009). _5/3/1: The Simplest and Most Effective Training System for Raw Strength._ 
+**Sources:**
+\- Schwartz, B. (2004). _The Paradox of Choice: Why More Is Less._ HarperCollins.
+\- Iyengar, S. S., & Lepper, M. R. (2000). "When choice is demotivating: Can one desire too much of a good thing?" _Journal of Personality and Social Psychology, 79_(6), 995–1006.
+\- Dan John. _Intervention: Course Corrections for the Athlete and Trainer._ On Target Publications.
+\- Rippetoe, M., & Kilgore, L. (2007). _Starting Strength: Basic Barbell Training._ The Aasgaard Company.
+\- Wendler, J. (2009). _5/3/1: The Simplest and Most Effective Training System for Raw Strength._
 \- Liftoff Mobile Trends Report (Various Years).
 
 * * *

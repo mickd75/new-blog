@@ -9,8 +9,6 @@ tags: []
 ---
 [![](/wp-images/302030897_833872627635582_1482407015460324215_n.jpeg)](/wp-images/302030897_833872627635582_1482407015460324215_n.jpeg)
 
- 
-
 You see, from a young age, society programs your mind for failure…
 
 They tell you to focus on making massive leaps in your growth.

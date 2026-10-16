@@ -9,8 +9,6 @@ tags: []
 ---
 [![](/wp-images/284087513_755105662514808_7665467793186201939_n.jpg)](/wp-images/284087513_755105662514808_7665467793186201939_n.jpg)
 
- 
-
 “Do I like the way I look?”
 
 Ever had that thought crossed your mind while you were looking in the mirror?

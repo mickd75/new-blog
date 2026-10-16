@@ -9,8 +9,6 @@ tags: []
 ---
 [![](/wp-images/293537968_110019438445762_1553470413171839540_n.jpeg)](/wp-images/293537968_110019438445762_1553470413171839540_n.jpeg)
 
- 
-
 Nowadays, it’s about getting from point A to point B as quickly as possible, but If you achieve a physical result while neglecting everything above, the results won’t stick.
 
 Everyone talks about and usually focuses on the physical results, but what about your internal results?

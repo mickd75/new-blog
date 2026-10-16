@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2023/01/top-10-quotes-about-success.html"
 category: ''
 tags: []
 ---
- 
 
 1.  "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 2. "Success is not the result of spontaneous combustion. You must set yourself on fire." - Arnold H. Glasow

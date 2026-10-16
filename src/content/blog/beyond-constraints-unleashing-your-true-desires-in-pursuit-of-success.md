@@ -49,5 +49,5 @@ By defining our path, understanding our 'why,' and taking incremental steps towa
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/inspiration-thomas-canestraro.html)

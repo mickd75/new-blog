@@ -9,8 +9,6 @@ tags: ['personal finance']
 ---
 Having good credit is crucial for getting approved for loans and credit cards with favorable interest rates. You need credit history for lenders to assess your creditworthiness. If you’re just starting out, here are some tips for establishing credit and building up your score over time:
 
- 
-
 ### Get a Secured Credit Card
 
 Secured cards require a cash deposit that acts as your credit limit. The deposit shows you can pay, helping build initial credit. Use the card sparingly and make all payments on time. After about a year you can upgrade to an unsecured card and get your deposit back.
@@ -22,8 +20,6 @@ You can piggyback off someone else’s good credit if they add you as an authori
 ### Apply for Student or Beginner Credit Card
 
 Look for “student” or “starter” credit cards aimed at those with little or no credit history. Terms are designed for new borrowers and tend to have lower credit limits but don’t require a security deposit. Use responsibly.
-
- 
 
 ### Use a Credit-Builder Loan 
 
@@ -37,8 +33,6 @@ While tempting for discounts, retail store cards have high interest rates and lo
 
 On-time rent, utility, phone and other payments aren’t reported to credit bureaus but late payments are. Avoid negative marks by staying on top of bills. Set up autopay or reminders to stay organized. 
 
- 
-
 ### Check Credit Reports 
 
 Order free annual credit reports and check for errors or suspicious activity. Dispute any inaccuracies with credit bureaus. Monitoring reports ensures your history is accurate.
@@ -47,15 +41,7 @@ Building credit takes diligence and responsible habits over time. Start small wi
 
 **FITNESS INSPIRATION OF THE DAY - Francesco**
 
- 
-
- 
-
- 
-
- 
-
 ### CONTINUE READING >>
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/physique-motivation-francesco-della-vedova.html)

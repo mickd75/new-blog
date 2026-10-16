@@ -11,5 +11,5 @@ We all have a limited amount of time and energy each day, and it's easy to get c
 
 ## CONTINUE NEXT PAGE
 
-[NEXT >> 
+[NEXT >>
 ](https://crazzymonday.com/2023/05/fitness-mix-19.html)

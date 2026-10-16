@@ -24,13 +24,12 @@ Modern personal finance has shifted from pure frugality to **income expansion**.
 People today grow their income through:
 
 * Skill stacking (e.g., combining marketing + AI + writing)
- 
+
 * Freelancing or consulting online
- 
+
 * Building small digital assets like templates or mini-courses
- 
+
 * Leveraging AI to create more value in less time
- 
 
 Budgeting protects what you already have. Earning more builds the life you want.
 
@@ -63,13 +62,12 @@ That’s why two people with the same salary can have completely different finan
 If you want to improve your finances, improve your **relationship with money**:
 
 * What beliefs did you grow up with?
- 
+
 * Do you think wealthy people are bad?
- 
+
 * Do you feel guilty asking for more?
- 
+
 * Do you equate spending with self-worth?
- 
 
 Fix the mindset, and the numbers follow.
 

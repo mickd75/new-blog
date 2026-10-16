@@ -9,15 +9,11 @@ tags: []
 ---
 There are several ways to afford luxury travel, including:
 
- 
-
 Budgeting: Set a budget for your trip and stick to it. Look for deals and discounts on flights, hotels, and activities. Consider traveling during the off-season when prices are typically lower.
 
 Saving: Start saving money well in advance of your trip. This can include cutting back on unnecessary expenses, setting up a dedicated savings account for travel, or even picking up a side hustle to save extra money.
 
 Reward points: Sign up for a rewards program with a credit card company or airline. Use these points to book flights, hotels, or activities.
-
- 
 
 Travel credit: Some credit cards offer travel credits that can be used for things like flights, hotels, and vacation packages.
 

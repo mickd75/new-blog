@@ -9,8 +9,6 @@ tags: []
 ---
 [![](/wp-images/299695469_1655945198112027_2795777390180632107_n.jpg)](/wp-images/299695469_1655945198112027_2795777390180632107_n.jpg)
 
- 
-
 Social media is a funny thing, isn’t it? 
 
 We are quick to judge, compare, and make assumptions about others - yet a reel or photo hardly paints the full picture or explains someone’s narrative.
