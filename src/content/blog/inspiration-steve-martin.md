@@ -43,5 +43,3 @@ Surround yourself with talented, motivated people that inspire you. The 20% of r
 
 Avoid burnout from overwork. The 20% of restorative activities that re-energize you, like exercise or quality time with family, enables the remaining 80% of productive work. Make time for renewal. The 80/20 rule empowers you to identify and focus where it matters most. Apply it to build the essential foundations for sustained wealth.
 
- [](/wp-images/25006061_378990079173000_3303168556039929856_n.jpg)
-

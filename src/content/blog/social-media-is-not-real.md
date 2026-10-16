@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/08/social-media-is-not-real.html"
 category: ''
 tags: []
 ---
-[![](/wp-images/299695469_1655945198112027_2795777390180632107_n.jpg)](/wp-images/299695469_1655945198112027_2795777390180632107_n.jpg)
 
 Social media is a funny thing, isn’t it? 
 

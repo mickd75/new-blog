@@ -24,5 +24,3 @@ Making major lifestyle changes all at once rarely sticks long-term. More often t
 
  By taking it step-by-step and easing into changes slowly, you can transform your lifestyle for the long haul. Consistency and gradual progress are key. Focus on the small wins, stay patient, and don’t give up. The healthy habits you build will stick over time.
 
- [](/wp-images/107514673_712970339499008_8018044663187464193_n.jpg)
-

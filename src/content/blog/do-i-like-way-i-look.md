@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/09/do-i-like-way-i-look.html"
 category: ''
 tags: []
 ---
-[![](/wp-images/284087513_755105662514808_7665467793186201939_n.jpg)](/wp-images/284087513_755105662514808_7665467793186201939_n.jpg)
 
 “Do I like the way I look?”
 

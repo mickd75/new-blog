@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/09/if-it-was-easy.html"
 category: ''
 tags: []
 ---
-[![](/wp-images/300680648_420541013260679_601700971140528521_n.jpg)](/wp-images/300680648_420541013260679_601700971140528521_n.jpg)
 
 If it was easy everyone would do it. ⁣
 

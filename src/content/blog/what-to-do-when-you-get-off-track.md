@@ -8,8 +8,6 @@ category: ''
 tags: []
 ---
 
-[![](/wp-images/279240857_805598423751255_8647011953922308624_n.jpg)](/wp-images/279240857_805598423751255_8647011953922308624_n.jpg)
-
 We’re all human so from time to time, we fall off track. ⁣
 
 What do you do once you’ve noticed you’re off track?⁣

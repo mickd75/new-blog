@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/08/happiness.html"
 category: ''
 tags: []
 ---
-[![](/wp-images/294425277_366685402252085_3128027222849172581_n.jpg)](/wp-images/294425277_366685402252085_3128027222849172581_n.jpg)
 
 Happiness...
 

@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/08/life-is-rollercoaster-ride.html"
 category: 'Lifestyle'
 tags: ['lifestyle']
 ---
-[![](/wp-images/300444128_608638603946702_3497074368312751686_n.jpg)](/wp-images/300444128_608638603946702_3497074368312751686_n.jpg)
 
 The path of self-discovery is filled with twists and turns that will take you to many places.
 

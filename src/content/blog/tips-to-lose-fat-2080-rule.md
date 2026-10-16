@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/12/tips-to-lose-fat-2080-rule.html"
 category: ''
 tags: []
 ---
-[![](/wp-images/firefox_screenshot_2021-04-23t16-50-02.358z.png)](/wp-images/firefox_screenshot_2021-04-23t16-50-02.358z.png)
 
 Honestly people over complicate a fitness when trying to accomplish a transformation.
 

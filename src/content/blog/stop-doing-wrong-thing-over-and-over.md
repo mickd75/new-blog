@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/08/stop-doing-wrong-thing-over-and-o
 category: 'Fitness'
 tags: ['fitness']
 ---
-[![](/wp-images/288760482_421761616525871_4146046787830943767_n.jpg)](/wp-images/288760482_421761616525871_4146046787830943767_n.jpg)
 
 **_"Insanity is doing the same thing over and over again and expecting different results."_** 
 

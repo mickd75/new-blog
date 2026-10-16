@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/10/things-to-stop-doing-at-gym.html"
 category: ''
 tags: []
 ---
-[![](/wp-images/137300349_218488193150279_2079786692340323462_n.jpeg)](/wp-images/137300349_218488193150279_2079786692340323462_n.jpeg)
 
 Stop trying to do a ton of unnecessary, low-quality sets. It’s better to do 10 intense, focused sets than 15 that any old person could do.
 

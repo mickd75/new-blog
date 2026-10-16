@@ -13,12 +13,12 @@ magazine UI (serif headings, 2-column card grid), date-based post URLs
 - [ ] GA4 `G-XXXXXXXXXX` in src/layouts/Base.astro (2 spots) → still to replace
 - [ ] Cloudflare Pages: connect repo (Astro preset, `npm run build`, `dist/`, branch main)
 - [ ] Custom domain crazzymonday.com on the Pages project, then DNS cutover
-- [ ] R2 images: 2234 downloaded images staged in `~/Projects/new-blog-r2-images/`
-      (covers all `/wp-images/` refs — the img/b family). Upload to an R2 bucket,
-      expose it on a domain, then either add a Cloudflare rewrite
-      (`crazzymonday.com/wp-images/*` → R2 domain) or find-replace the refs.
-      All Blogger hotlinks (img/a + bp.blogspot, 889 image blocks) were stripped
-      from content — those posts are text-only now.
+- [ ] Images: content is fully text-only (all Blogger hotlinks AND all
+      `/wp-images/` refs stripped — see scripts/strip-blogger-images.mjs,
+      scripts/strip-wp-images.mjs). 2234 downloaded images are staged in
+      `~/Projects/new-blog-r2-images/` for R2 upload; the original post→image
+      placement is recoverable from git history (commit 5170867 and earlier)
+      if needed when re-inserting by hand.
 - [ ] AdSense: add crazzymonday.com under Sites (pub ca-pub-9851421663198414 pre-wired)
 - [ ] Sitemap in Search Console after cutover
 

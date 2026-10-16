@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/10/sixpack-abs-and-muscles.html"
 category: ''
 tags: []
 ---
-[![](/wp-images/2018-12-23_1940555661517330945.jpg)](/wp-images/2018-12-23_1940555661517330945.jpg)
 
 If you promise yourself that “this year I’m gonna lose 10lbs”, and you don’t, you probably may feel a bit like a failure.
 

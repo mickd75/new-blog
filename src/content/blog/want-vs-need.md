@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/08/want-vs-need.html"
 category: ''
 tags: []
 ---
-[![](/wp-images/298535125_515667050385623_2284349042734301245_n.jpg)](/wp-images/298535125_515667050385623_2284349042734301245_n.jpg)
 
 Life doesn't always give us what we think we want...
 

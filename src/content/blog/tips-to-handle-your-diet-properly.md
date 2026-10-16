@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/10/tips-to-handle-your-diet-properly
 category: ''
 tags: []
 ---
-[![](/wp-images/2018-05-19_1782959467732608332.jpg)](/wp-images/2018-05-19_1782959467732608332.jpg)
 
 If you're trying to lose fat, when is it time to stop cutting and focus on [gaining muscle](https://www.crazzymonday.com/2022/08/top-3-tips-to-stay-fit.html)?
 

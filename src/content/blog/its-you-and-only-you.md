@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/08/its-you-and-only-you.html"
 category: ''
 tags: []
 ---
-[![](/wp-images/301918319_580178090513961_1185030982595448611_n.jpg)](/wp-images/301918319_580178090513961_1185030982595448611_n.jpg)
 
 There’s a version of you that exists in the future that already has all that you desire
 

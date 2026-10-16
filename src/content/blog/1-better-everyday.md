@@ -7,7 +7,6 @@ originalUrl: "https://crazzymonday.com/2022/12/1-better-everyday.html"
 category: ''
 tags: []
 ---
-[![](/wp-images/302030897_833872627635582_1482407015460324215_n.jpeg)](/wp-images/302030897_833872627635582_1482407015460324215_n.jpeg)
 
 You see, from a young age, society programs your mind for failure…
 
