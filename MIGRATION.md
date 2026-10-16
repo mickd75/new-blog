@@ -4,9 +4,27 @@ Same stack as crazymonda.xyz: **Astro → GitHub → Cloudflare Pages → Pages 
 magazine UI (serif headings, 2-column card grid), date-based post URLs
 (`/YYYY/MM/slug.html` matching WordPress permalinks → zero redirects needed).
 
+## Status (Oct 16, 2026)
+- [x] Import done: 780 posts from crazzymonday.com, 73 thin filler posts removed → **706 posts**
+- [x] Categories consolidated: Fitness 226, Self-Improvement 206, Personal Finance 165,
+      Lifestyle 29, Health 22, Retirement 17 (+ category intro pages)
+- [x] Branding: Crazzy Monday / crazzymonday.com everywhere; repo live at
+      github.com/mickd75/new-blog (no images in git — 1.6 MiB repo)
+- [ ] GA4 `G-XXXXXXXXXX` in src/layouts/Base.astro (2 spots) → still to replace
+- [ ] Cloudflare Pages: connect repo (Astro preset, `npm run build`, `dist/`, branch main)
+- [ ] Custom domain crazzymonday.com on the Pages project, then DNS cutover
+- [ ] R2 images: 2234 downloaded images staged in `~/Projects/new-blog-r2-images/`
+      (covers all `/wp-images/` refs — the img/b family). Upload to an R2 bucket,
+      expose it on a domain, then either add a Cloudflare rewrite
+      (`crazzymonday.com/wp-images/*` → R2 domain) or find-replace the refs.
+      `img/a/...` and legacy bp.blogspot images currently hotlink Blogger;
+      pull those into R2 too if you want everything self-hosted.
+- [ ] AdSense: add crazzymonday.com under Sites (pub ca-pub-9851421663198414 pre-wired)
+- [ ] Sitemap in Search Console after cutover
+
 ## 1. Placeholders to replace (search the repo)
-- [ ] `yourdomain.com` → astro.config.mjs, src/pages/robots.txt.ts, src/pages/sitemap.xml.ts, .pages.yml
-- [ ] `New Blog` / `New<span class="accent">Blog</span>` → site name in src/components/Nav.astro, Footer.astro, src/layouts/Base.astro, Page.astro, src/pages/index.astro, 404.astro
+- [x] `yourdomain.com` → astro.config.mjs, src/pages/robots.txt.ts, src/pages/sitemap.xml.ts, .pages.yml
+- [x] `New Blog` / `New<span class="accent">Blog</span>` → site name in src/components/Nav.astro, Footer.astro, src/layouts/Base.astro, Page.astro, src/pages/index.astro, 404.astro
 - [ ] `G-XXXXXXXXXX` in src/layouts/Base.astro (2 spots) → new GA4 property Measurement ID
 - [ ] AdSense: add this domain under AdSense → Sites (same account as crazymonda is fine);
       the script already carries `ca-pub-9851421663198414`; update `public/ads.txt` if Google asks
