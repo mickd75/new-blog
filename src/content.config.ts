@@ -8,7 +8,13 @@ const blog = defineCollection({
     date: z.coerce.date(),
     readTime: z.number().optional(),
     category: z.string().default(''),
-    tags: z.array(z.string()).default([]),
+    tags: z
+      .union([z.array(z.string()), z.string()])
+      .transform((v) =>
+        Array.isArray(v) ? v.map((t) => t.trim()).filter(Boolean)
+                         : v.split(',').map((t) => t.trim()).filter(Boolean)
+      )
+      .default([]),
   }),
 });
 
