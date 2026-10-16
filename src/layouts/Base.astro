@@ -53,23 +53,12 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <meta property="twitter:description" content={description} />
     <meta property="twitter:image" content={new URL(image, Astro.url)} />
 
-    <!-- Google AdSense (Auto Ads) -->
-    <!-- TODO: add this domain in AdSense -> Sites (same account as crazymonda is fine) -->
   
     <script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9851421663198414"
       crossorigin="anonymous"></script>
 
 
-    <!-- Google Analytics (GA4) -->
-    <!-- TODO: create a GA4 property for this site and replace G-XXXXXXXXXX (2 occurrences) -->
-    <!-- TODO: replace G-XXXXXXXXXX with your GA4 Measurement ID -->
-    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
-    <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-XXXXXXXXXX');
-    </script>
+ 
 
     <!-- Fonts: DM Serif Display + Inter -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
