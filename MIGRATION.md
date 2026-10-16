@@ -17,8 +17,8 @@ magazine UI (serif headings, 2-column card grid), date-based post URLs
       (covers all `/wp-images/` refs — the img/b family). Upload to an R2 bucket,
       expose it on a domain, then either add a Cloudflare rewrite
       (`crazzymonday.com/wp-images/*` → R2 domain) or find-replace the refs.
-      `img/a/...` and legacy bp.blogspot images currently hotlink Blogger;
-      pull those into R2 too if you want everything self-hosted.
+      All Blogger hotlinks (img/a + bp.blogspot, 889 image blocks) were stripped
+      from content — those posts are text-only now.
 - [ ] AdSense: add crazzymonday.com under Sites (pub ca-pub-9851421663198414 pre-wired)
 - [ ] Sitemap in Search Console after cutover
 
