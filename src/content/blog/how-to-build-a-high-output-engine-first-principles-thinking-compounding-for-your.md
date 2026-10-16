@@ -13,7 +13,6 @@ Here's the uncomfortable truth: most fitness advice is copied from someone else'
 
 
 
-![497837323_1471924883785123_4736241994943177404_n.jpg](https://hexagrampaper.online/uploads_16_10_26_09/497837323_1471924883785123_4736241994943177404_n.jpg)
 
 ![617859049_18062341391662742_2529153489740769669_n.jpg](https://hexagrampaper.online/uploads_16_10_26_09/617859049_18062341391662742_2529153489740769669_n.jpg)
 
@@ -79,6 +78,9 @@ By the end, you'll have a system that works _for your life_, not against it. And
 ### Step 1: Strip Fitness Down to Its First Principles
 
 Before you build anything, you need to know what actually works. First-principles thinking means asking: _What is the irreducible truth here?_ Not "What does my favorite influencer do?" but "What does biology require?"
+
+![497837323_1471924883785123_4736241994943177404_n.jpg](https://hexagrampaper.online/uploads_16_10_26_09/497837323_1471924883785123_4736241994943177404_n.jpg)
+
 
 ![656851111_18133627138470304_2140956310866873718_n.jpg](https://hexagrampaper.online/uploads_16_10_26_09/656851111_18133627138470304_2140956310866873718_n.jpg)
 
