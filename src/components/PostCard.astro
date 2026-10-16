@@ -23,11 +23,7 @@ const formatDate = (d: Date) =>
 <article class="card">
   <a href={href} class="card-link">
     <div class="card-body">
-      {category ? (
-        <a href={`/category/${category.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`} class="card-category" style="position: static; display: inline-block; align-self: flex-start; margin-bottom: var(--space-md);">{category}</a>
-      ) : (
-        <span class="card-category" style="position: static; display: inline-block; align-self: flex-start; margin-bottom: var(--space-md); background: var(--color-text);">Article</span>
-      )}
+      <span class="card-category" style="position: static; display: inline-block; align-self: flex-start; margin-bottom: var(--space-md); background: var(--color-text);">{category || 'Article'}</span>
       <h2 class="card-title">{title}</h2>
       <p class="card-excerpt">{excerpt(preview)}</p>
       <div class="card-meta">
